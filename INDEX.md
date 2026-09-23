@@ -1,0 +1,18 @@
+# INDEX — Komentarz do ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych
+
+- [00-wprowadzenie.md](00-wprowadzenie.md) — Wprowadzenie, metoda, podstawowe dane
+- [01-rozdzial.md](01-rozdzial.md) — Rozdział komentarza 01: Przepisy ogólne i wspólne Kodeksu spółek handlowych oraz prawo grupy spółek (art. 1 – art. 27)
+- [02-rozdzial.md](02-rozdzial.md) — Rozdział komentarza 02: Spółka jawna (dokończenie): stosunki majątkowe, wewnętrzne, rozwiązanie i likwidacja; spółka partnerska, komandytowa i komandytowo-akcyjna (art. 28 – art. 128)
+- [03-rozdzial.md](03-rozdzial.md) — Rozdział komentarza 03: Dokończenie regulacji spółki komandytowo-akcyjnej oraz powstanie i prawa wspólników spółki z ograniczoną odpowiedzialnością (art. 129 – art. 200)
+- [04-rozdzial.md](04-rozdzial.md) — Rozdział komentarza 04: Zarząd, nadzór i zgromadzenie wspólników w spółce z ograniczoną odpowiedzialnością (art. 201 – art. 254)
+- [05-rozdzial.md](05-rozdzial.md) — Rozdział komentarza 05: Zmiana umowy spółki, podwyższenie i obniżenie kapitału zakładowego, wyłączenie wspólnika, rozwiązanie i likwidacja spółki z o.o., odpowiedzialność cywilnoprawna oraz powstanie i prawa akcjonariuszy prostej spółki akcyjnej (art. 255 – art. 300³⁵)
+- [06-rozdzial.md](06-rozdzial.md) — Rozdział komentarza 06: Rozporządzanie akcją, umorzenie akcji i nabycie akcji własnych, wyłączenie i ustąpienie akcjonariusza oraz organy prostej spółki akcyjnej (art. 300³⁶ – art. 300¹⁰¹)
+- [07-rozdzial.md](07-rozdzial.md) — Rozdział komentarza 07: Zmiana umowy i emisja akcji w prostej spółce akcyjnej, rozwiązanie i likwidacja PSA, odpowiedzialność cywilnoprawna oraz powstanie spółki akcyjnej (art. 300¹⁰² – art. 327)
+- [08-rozdzial.md](08-rozdzial.md) — Rozdział komentarza 08: Rejestr akcjonariuszy i świadectwa rejestrowe, wpłaty na akcje i skutki zwłoki (kaduk), zbywalność i obciążenie akcji, dywidenda i akcje uprzywilejowane, umorzenie akcji oraz nabywanie i obejmowanie akcji własnych (art. 328 – art. 367)
+- [09-rozdzial.md](09-rozdzial.md) — Rozdział komentarza 09: Zarząd i rada nadzorcza spółki akcyjnej: powoływanie, kompetencje i odpowiedzialność organów oraz zwołanie i przebieg walnego zgromadzenia (art. 368 – art. 411)
+- [10-rozdzial.md](10-rozdzial.md) — Rozdział komentarza 10: Wykonywanie prawa głosu, uchwały walnego zgromadzenia i ich zaskarżanie oraz podwyższenie kapitału zakładowego w drodze subskrypcji akcji (art. 411¹ – art. 441)
+- [11-rozdzial.md](11-rozdzial.md) — Rozdział komentarza 11: Podwyższenie kapitału zakładowego ze środków spółki, kapitał docelowy i warunkowe podwyższenie kapitału, obniżenie kapitału zakładowego, rozwiązanie i likwidacja spółki akcyjnej, odpowiedzialność cywilnoprawna oraz ogólne przepisy o łączeniu się spółek (art. 442 – art. 497)
+- [12-rozdzial.md](12-rozdzial.md) — Rozdział komentarza 12: Procedura łączenia się spółek kapitałowych oraz połączenie transgraniczne spółek kapitałowych (art. 498 – art. 516¹⁸)
+- [13-rozdzial.md](13-rozdzial.md) — Rozdział komentarza 13: Łączenie z udziałem spółek osobowych oraz podział spółek kapitałowych i spółki komandytowo-akcyjnej, w tym podział transgraniczny (art. 516¹⁹ – art. 550¹⁷)
+- [14-rozdzial.md](14-rozdzial.md) — Rozdział komentarza 14: Zakończenie regulacji podziału transgranicznego, podział spółki komandytowo-akcyjnej oraz przekształcenia spółek handlowych, w tym przekształcenie transgraniczne (art. 550¹⁸ – art. 580¹⁷)
+- [15-rozdzial.md](15-rozdzial.md) — Rozdział komentarza 15: Transgraniczne przekształcenie spółki komandytowo-akcyjnej, przekształcenia spółek osobowych, przekształcenie przedsiębiorcy w spółkę kapitałową oraz przepisy karne, przejściowe i końcowe Kodeksu spółek handlowych (art. 580¹⁸ – art. 633)
