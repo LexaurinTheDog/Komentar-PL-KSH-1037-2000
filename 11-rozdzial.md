@@ -27,14 +27,10 @@ Przepis reguluje tzw. podwyższenie kapitału zakładowego ze środków własnyc
 > § 3. Jeżeli akcje, o których mowa w § 2 pkt 1, nie zostaną objęte w całości, zarząd dokona stosownych wypłat na rzecz uprawnionych akcjonariuszy, zgodnie z § 2 pkt 2. Wypłaty nie mogą przewyższać jednej dziesiątej łącznej wartości nominalnej akcji przydzielonych akcjonariuszom zgodnie z art. 442.
 >
 > § 4. (uchylony)
->
-> Podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje
-
-*Odnośnik w tekście jednolitym:* Tytuł rozdziału w brzmieniu ustalonym przez art. 7 pkt 1 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw (Dz. U. poz. 825), która weszła w życie z dniem 1 października 2023 r.
 
 Przepis rozwija zasady przydziału akcji przy podwyższeniu kapitału ze środków spółki. § 1 wprowadza zasadę proporcjonalności: akcje przydzielone w trybie art. 442 przysługują akcjonariuszom w stosunku do ich dotychczasowego udziału w kapitale zakładowym, przy czym odmienne postanowienia statutu lub uchwały są nieważne z mocy prawa - wyklucza to jakiekolwiek uprzywilejowanie poszczególnych akcjonariuszy przy tym szczególnym trybie podwyższenia, odróżniającym się tym samym od zwykłego podwyższenia, w którym większa swoboda kształtowania zasad przydziału jest dopuszczalna. § 2 reguluje problem części ułamkowych akcji, nieuchronnie powstający przy przeliczeniach proporcjonalnych: walne zgromadzenie może zdecydować albo o emisji i przyznaniu akcjonariuszom akcji niepokrytych w pełni ze środków spółki, pod warunkiem wniesienia przez nich dopłat do pełnej ceny emisyjnej (pkt 1), albo o wypłacie akcjonariuszom kwot odpowiadających różnicy między ceną emisyjną a wartością nominalną przysługujących im, lecz nieobjętych części ułamkowych (pkt 2). § 3 reguluje sytuację, w której akcje, o których mowa w § 2 pkt 1, nie zostaną objęte w całości - zarząd dokonuje wówczas stosownych wypłat zgodnie z § 2 pkt 2, przy czym łączna wysokość takich wypłat nie może przekroczyć jednej dziesiątej łącznej wartości nominalnej akcji przydzielonych akcjonariuszom na podstawie art. 442 - ograniczenie to zapobiega przekształceniu podwyższenia kapitalizacyjnego w istocie w wypłatę gotówkową. § 4 jest uchylony.
 
-#### Rozdział 5 — Kapitał docelowy — Warunkowe podwyższenie kapitału zakładowego
+#### Rozdział 5 — Kapitał docelowy — Warunkowe podwyższenie kapitału zakładowego — Podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje
 
 ### Art. 444
 
