@@ -210,9 +210,9 @@ Przepis ma charakter porządkujący i potwierdza zasadę kumulatywnego (a nie wy
 
 **Brzmienie przepisu:**
 
-> Art. 454¹. § 1. Walne zgromadzenie może uchwalić podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych, o których mowa w art. 27a ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2022 r. poz. 2244 oraz z 2023 r. poz. 825 i 1723), na akcje w przypadku wystąpienia zdarzenia inicjującego, o którym mowa w:
+> Art. 454¹.⁽¹⁴⁾ § 1. Walne zgromadzenie może uchwalić podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych, o których mowa w art. 27a ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2022 r. poz. 2244 oraz z 2023 r. poz. 825 i 1723), na akcje w przypadku wystąpienia zdarzenia inicjującego, o którym mowa w:
 >
-> 1) art. 54 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.), 2) art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) nr 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady nr 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, z późn. zm.) – zwanego dalej „zdarzeniem inicjującym”, na zasadach określonych w warunkach emisji (podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje).
+> 1) art. 54 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm.⁽¹⁵⁾), 2) art. 71 ust. 8 rozporządzenia delegowanego Komisji (UE) nr 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady nr 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) (Dz. Urz. UE L 12 z 17.01.2015, str. 1, z późn. zm.⁽¹⁶⁾) – zwanego dalej „zdarzeniem inicjującym”, na zasadach określonych w warunkach emisji (podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje).
 >
 > § 2. Uchwała walnego zgromadzenia w sprawie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje zawiera upoważnienie zarządu do podjęcia uchwały o przyznaniu akcji w przypadku wystąpienia zdarzeń, o których mowa w § 1. Udzielenie upoważnienia wymaga zmiany statutu.
 >
@@ -220,11 +220,11 @@ Przepis ma charakter porządkujący i potwierdza zasadę kumulatywnego (a nie wy
 >
 > § 4. Podwyższenie kapitału zakładowego w celu przyznania akcji w zamian za obligacje kapitałowe może nastąpić wyłącznie w trybie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje, z uwzględnieniem przepisów ustawy z dnia 15 stycznia 2015 r. o obligacjach.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
+*Odnośnik w tekście jednolitym* 14) Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
 
-*Odnośnik w tekście jednolitym:* Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 2, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 74 z 16.03.2018, str. 3, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 335 z 13.10.2020, str. 20, Dz. Urz. UE L 405 z 02.12.2020, str. 79, Dz. Urz. UE L 84 z 11.03.2021, str. 1, Dz. Urz. UE L 116 z 06.04.2021, str. 25 oraz Dz. Urz. UE L 275 z 25.10.2022, str. 1.
+*Odnośnik w tekście jednolitym* 15) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 2, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 74 z 16.03.2018, str. 3, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 335 z 13.10.2020, str. 20, Dz. Urz. UE L 405 z 02.12.2020, str. 79, Dz. Urz. UE L 84 z 11.03.2021, str. 1, Dz. Urz. UE L 116 z 06.04.2021, str. 25 oraz Dz. Urz. UE L 275 z 25.10.2022, str. 1.
 
-*Odnośnik w tekście jednolitym:* Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 85 z 01.04.2016, str. 6, Dz. Urz. UE L 346 z 20.12.2016, str. 111, Dz. Urz. UE L 236 z 14.09.2017, str. 14, Dz. Urz. UE L 227 z 10.09.2018, str. 1, Dz. Urz. UE L 161 z 18.06.2019, str. 1, Dz. Urz. UE L 289 z 08.11.2019, str. 3, Dz. Urz. UE L 92 z 26.03.2020, str. 1, Dz. Urz. UE L 277 z 02.08.2021, str. 14 oraz Dz. Urz. UE L 2 z 06.01.2022, str. 8.
+*Odnośnik w tekście jednolitym* 16) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 85 z 01.04.2016, str. 6, Dz. Urz. UE L 346 z 20.12.2016, str. 111, Dz. Urz. UE L 236 z 14.09.2017, str. 14, Dz. Urz. UE L 227 z 10.09.2018, str. 1, Dz. Urz. UE L 161 z 18.06.2019, str. 1, Dz. Urz. UE L 289 z 08.11.2019, str. 3, Dz. Urz. UE L 92 z 26.03.2020, str. 1, Dz. Urz. UE L 277 z 02.08.2021, str. 14 oraz Dz. Urz. UE L 2 z 06.01.2022, str. 8.
 
 Przepis, dodany nowelizacją wskazaną w przypisie urzędowym (art. 7 pkt 2 ustawy nowelizującej z 2023 r.), wprowadza szczególny, odrębny od kapitału docelowego i warunkowego podwyższenia, mechanizm podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje. § 1 uprawnia walne zgromadzenie do podjęcia uchwały o takiej zamianie w odniesieniu do obligacji kapitałowych, o których mowa w art. 27a ustawy o obligacjach, w razie wystąpienia tzw. zdarzenia inicjującego - zdefiniowanego przez odesłanie do art. 54 ust. 1 rozporządzenia (UE) nr 575/2013 (dotyczącego wymogów ostrożnościowych dla instytucji kredytowych) oraz art. 71 ust. 8 rozporządzenia delegowanego (UE) 2015/35 (dotyczącego działalności ubezpieczeniowej i reasekuracyjnej); instytucja ta służy więc przede wszystkim bankom i zakładom ubezpieczeń emitującym instrumenty kapitałowe zaliczane do funduszy własnych, które w razie pogorszenia ich sytuacji finansowej podlegają automatycznej konwersji na akcje na zasadach określonych w warunkach emisji. § 2 wymaga, by uchwała walnego zgromadzenia zawierała upoważnienie zarządu do podjęcia - już po wystąpieniu zdarzenia inicjującego - odrębnej uchwały o przyznaniu akcji, przy czym udzielenie takiego upoważnienia wymaga zmiany statutu; konstrukcja przypomina więc mechanizm kapitału docelowego, lecz jest uruchamiana zdarzeniem zewnętrznym, a nie swobodną decyzją zarządu. § 3 - analogicznie jak przy kapitale docelowym (art. 444 § 6) - zakazuje zarządowi przyznawania akcji uprzywilejowanych ani szczególnych uprawnień z art. 354. § 4 wprowadza zasadę wyłączności trybu: podwyższenie w celu przyznania akcji w zamian za obligacje kapitałowe może nastąpić wyłącznie w tym szczególnym trybie, z uwzględnieniem przepisów ustawy o obligacjach.
 
@@ -232,7 +232,7 @@ Przepis, dodany nowelizacją wskazaną w przypisie urzędowym (art. 7 pkt 2 usta
 
 **Brzmienie przepisu:**
 
-> Art. 454². § 1. Uchwała walnego zgromadzenia w sprawie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje wymaga większości trzech czwartych głosów.
+> Art. 454².⁽¹⁴⁾ § 1. Uchwała walnego zgromadzenia w sprawie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje wymaga większości trzech czwartych głosów.
 >
 > § 2. Uchwała określa w szczególności:
 >
@@ -248,7 +248,7 @@ Przepis, dodany nowelizacją wskazaną w przypisie urzędowym (art. 7 pkt 2 usta
 >
 > § 4. Nowe akcje przyznane podmiotom uprawnionym na mocy uchwały zarządu nie wymagają objęcia i mogą być przyznane wyłącznie w zamian za obligacje kapitałowe, które zostały w pełni opłacone.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
+*Odnośnik w tekście jednolitym* 14) Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
 
 Przepis, dodany tą samą nowelizacją, doprecyzowuje wymogi formalne uchwały walnego zgromadzenia o podwyższeniu kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje. § 1 wymaga większości trzech czwartych głosów, analogicznie jak przy kapitale docelowym i warunkowym podwyższeniu, co podkreśla wagę decyzji otwierającej drogę do przyszłej, potencjalnie znaczącej zmiany struktury kapitałowej. § 2 wskazuje obligatoryjne elementy uchwały: maksymalną wartość nominalną podwyższenia (pkt 1), jego cel (pkt 2), krąg osób uprawnionych do akcji (pkt 3) oraz rodzaj emitowanych akcji (pkt 4). § 3 wyłącza wobec wkładów wnoszonych przez obligatariuszy obligacji kapitałowych stosowanie przepisów o wkładach niepieniężnych, analogicznie jak w przypadku obligacji zamiennych (art. 449 § 2) - konwersja obligacji na akcje nie jest traktowana jako aport podlegający ogólnym rygorom wyceny. § 4 stanowi, że nowe akcje przyznane na mocy uchwały zarządu nie wymagają odrębnego objęcia i mogą zostać przyznane wyłącznie w zamian za obligacje kapitałowe w pełni opłacone - podkreśla to automatyzm i bezwarunkowość konwersji po wystąpieniu zdarzenia inicjującego.
 
@@ -256,11 +256,11 @@ Przepis, dodany tą samą nowelizacją, doprecyzowuje wymogi formalne uchwały w
 
 **Brzmienie przepisu:**
 
-> Art. 454³. § 1. Podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje zarząd zgłasza do sądu rejestrowego. Do zgłoszenia należy dołączyć uchwałę w sprawie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje oraz uchwałę o emisji obligacji kapitałowych.
+> Art. 454³.⁽¹⁴⁾ § 1. Podwyższenie kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje zarząd zgłasza do sądu rejestrowego. Do zgłoszenia należy dołączyć uchwałę w sprawie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje oraz uchwałę o emisji obligacji kapitałowych.
 >
 > § 2. Uchwałę w sprawie podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje zarząd ogłasza najpóźniej w terminie sześciu tygodni od dnia wpisu do rejestru podwyższenia kapitału zakładowego.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
+*Odnośnik w tekście jednolitym* 14) Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
 
 Przepis reguluje obowiązek zgłoszenia do sądu rejestrowego podwyższenia kapitału zakładowego dokonanego w drodze zamiany obligacji kapitałowych na akcje. § 1 nakłada na zarząd obowiązek zgłoszenia wraz z dołączeniem uchwały o podwyższeniu kapitału w tym trybie oraz uchwały o emisji obligacji kapitałowych - wymóg przedłożenia obu uchwał pozwala sądowi zweryfikować zgodność przeprowadzonej konwersji z pierwotnymi warunkami emisji. § 2 nakłada obowiązek ogłoszenia uchwały o podwyższeniu kapitału najpóźniej w terminie sześciu tygodni od dnia wpisu podwyższenia do rejestru, analogicznie do terminu przewidzianego przy warunkowym podwyższeniu kapitału (art. 450 § 2), co realizuje funkcję informacyjną wobec osób trzecich.
 
@@ -268,7 +268,7 @@ Przepis reguluje obowiązek zgłoszenia do sądu rejestrowego podwyższenia kapi
 
 **Brzmienie przepisu:**
 
-> Art. 454⁴. § 1. W terminie 21 dni od dnia wystąpienia zdarzenia inicjującego zarząd podejmuje uchwałę o przyznaniu akcji na zasadach określonych w warunkach emisji obligacji kapitałowych podmiotom uprawnionym na dzień wyrejestrowania tych obligacji z depozytu papierów wartościowych oraz zawiadamia o jej podjęciu podmiot, w którym te obligacje zostały zarejestrowane.
+> Art. 454⁴.⁽¹⁴⁾ § 1. W terminie 21 dni od dnia wystąpienia zdarzenia inicjującego zarząd podejmuje uchwałę o przyznaniu akcji na zasadach określonych w warunkach emisji obligacji kapitałowych podmiotom uprawnionym na dzień wyrejestrowania tych obligacji z depozytu papierów wartościowych oraz zawiadamia o jej podjęciu podmiot, w którym te obligacje zostały zarejestrowane.
 >
 > § 2. Przyznanie akcji staje się skuteczne z chwilą dokonania wpisu w rejestrze akcjonariuszy, a w przypadku spółki, której akcje są zarejestrowane w depozycie papierów wartościowych – z chwilą ich zapisania na rachunku papierów wartościowych lub rachunku zbiorczym.
 >
@@ -276,7 +276,7 @@ Przepis reguluje obowiązek zgłoszenia do sądu rejestrowego podwyższenia kapi
 >
 > § 4. W terminie 14 dni od dnia przyznania akcji zarząd zgłasza uchwałę o przyznaniu akcji do sądu rejestrowego wraz z wykazem przyznanych na jej podstawie akcji. Wykaz zawiera nazwiska i imiona albo firmy (nazwy) akcjonariuszy oraz liczbę przyznanych im akcji. Do zgłoszenia należy dołączyć oświadczenie zarządu, że akcje zostały przyznane w zamian za obligacje kapitałowe, które zostały w pełni opłacone.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
+*Odnośnik w tekście jednolitym* 14) Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
 
 Przepis szczegółowo reguluje procedurę przyznania akcji po wystąpieniu zdarzenia inicjującego. § 1 wyznacza zarządowi termin 21 dni od dnia wystąpienia zdarzenia inicjującego na podjęcie uchwały o przyznaniu akcji zgodnie z warunkami emisji obligacji kapitałowych, adresowanej do podmiotów uprawnionych na dzień wyrejestrowania tych obligacji z depozytu papierów wartościowych, oraz nakłada obowiązek zawiadomienia o podjęciu uchwały podmiotu, w którym obligacje były zarejestrowane (zwykle centralnego depozytu papierów wartościowych). § 2 - analogicznie do art. 451 § 2 - wiąże skuteczność przyznania akcji z chwilą wpisu w rejestrze akcjonariuszy, a w przypadku akcji zdematerializowanych - z chwilą zapisania na rachunku papierów wartościowych lub rachunku zbiorczym. § 3 stanowi, że wraz z przyznaniem akcji następuje jednoczesne nabycie praw z akcji oraz podwyższenie kapitału zakładowego o wartość nominalną akcji przyznanych na podstawie uchwały z § 1 - mechanizm analogiczny do warunkowego podwyższenia kapitału (art. 452 § 1). § 4 nakłada na zarząd obowiązek zgłoszenia uchwały o przyznaniu akcji do sądu rejestrowego w terminie 14 dni od dnia przyznania akcji, wraz z wykazem przyznanych akcji (zawierającym dane akcjonariuszy i liczbę przyznanych im akcji) oraz oświadczeniem zarządu, że akcje zostały przyznane w zamian za w pełni opłacone obligacje kapitałowe.
 
@@ -284,7 +284,7 @@ Przepis szczegółowo reguluje procedurę przyznania akcji po wystąpieniu zdarz
 
 **Brzmienie przepisu:**
 
-> Art. 454⁵. § 1. W przypadku podjęcia przez zarząd uchwały o przyznaniu akcji uczestnicy depozytu papierów wartościowych przekazują spółce w terminie wskazanym przez podmiot, w którym obligacje zostały zarejestrowane, nazwiska i imiona albo firmy (nazwy) obligatariuszy oraz adresy ich miejsca zamieszkania albo siedziby albo inne adresy do doręczeń, albo adresy do doręczeń elektronicznych, ze wskazaniem liczby obligacji posiadanych przez każdego z nich. Informacje te są sporządzane według stanu na dzień wyrejestrowania obligacji z depozytu papierów wartościowych.
+> Art. 454⁵.⁽¹⁴⁾ § 1. W przypadku podjęcia przez zarząd uchwały o przyznaniu akcji uczestnicy depozytu papierów wartościowych przekazują spółce w terminie wskazanym przez podmiot, w którym obligacje zostały zarejestrowane, nazwiska i imiona albo firmy (nazwy) obligatariuszy oraz adresy ich miejsca zamieszkania albo siedziby albo inne adresy do doręczeń, albo adresy do doręczeń elektronicznych, ze wskazaniem liczby obligacji posiadanych przez każdego z nich. Informacje te są sporządzane według stanu na dzień wyrejestrowania obligacji z depozytu papierów wartościowych.
 >
 > § 2. W przypadku gdy ewidencja osób uprawnionych z papierów wartościowych, o której mowa w art. 7a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, nie została jeszcze przekazana do depozytu papierów wartościowych, informacje, o których mowa w § 1, przekazuje spółce agent emisji.
 >
@@ -292,7 +292,7 @@ Przepis szczegółowo reguluje procedurę przyznania akcji po wystąpieniu zdarz
 >
 > § 4. W przypadku gdy akcje spółki są rejestrowane w rejestrze akcjonariuszy, spółka przekazuje podmiotowi prowadzącemu rejestr akcjonariuszy dane osobowe, o których mowa w § 1, ze wskazaniem liczby akcji, w celu zapisania akcji w tym rejestrze.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
+*Odnośnik w tekście jednolitym* 14) Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
 
 Przepis reguluje przepływ informacji niezbędnych do zidentyfikowania obligatariuszy uprawnionych do otrzymania akcji w wyniku konwersji. § 1 nakłada na uczestników depozytu papierów wartościowych obowiązek przekazania spółce, w terminie wskazanym przez podmiot rejestrujący obligacje, danych osobowych obligatariuszy (imion i nazwisk albo firm, adresów zamieszkania lub siedziby, adresów do doręczeń, w tym elektronicznych) wraz ze wskazaniem liczby posiadanych przez nich obligacji, sporządzonych według stanu na dzień wyrejestrowania obligacji z depozytu. § 2 przewiduje, że jeżeli ewidencja osób uprawnionych z papierów wartościowych (o której mowa w art. 7a ustawy o obrocie instrumentami finansowymi) nie została jeszcze przekazana do depozytu, obowiązek przekazania informacji spoczywa na agencie emisji. § 3 analogicznie reguluje sytuację, gdy rejestr osób uprawnionych (art. 7aa tej ustawy) nie został jeszcze wydany innemu systemowi rejestracji zgodnie z art. 5 ust. 1a ustawy o obrocie instrumentami finansowymi - wówczas obowiązek spoczywa na podmiocie prowadzącym rejestr. § 4 zamyka łańcuch przepływu danych: jeżeli akcje spółki są rejestrowane w rejestrze akcjonariuszy, spółka przekazuje podmiotowi prowadzącemu ten rejestr dane osobowe wraz z liczbą przyznanych akcji, w celu dokonania odpowiedniego zapisu. Cały przepis ma charakter technicznoorganizacyjny i służy zapewnieniu prawidłowego, terminowego zapisania nowo przyznanych akcji na rzecz właściwych osób.
 
@@ -300,11 +300,11 @@ Przepis reguluje przepływ informacji niezbędnych do zidentyfikowania obligatar
 
 **Brzmienie przepisu:**
 
-> Art. 454⁶. § 1. Do podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje stosuje się odpowiednio przepisy rozdziału 4, chyba że przepisy niniejszego rozdziału stanowią inaczej.
+> Art. 454⁶.⁽¹⁴⁾ § 1. Do podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje stosuje się odpowiednio przepisy rozdziału 4, chyba że przepisy niniejszego rozdziału stanowią inaczej.
 >
 > § 2. Przepisy o podwyższeniu kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje nie naruszają kompetencji walnego zgromadzenia do zwykłego podwyższenia kapitału zakładowego w trybie określonym w art. 431 w okresie korzystania przez zarząd z uprawnień określonych w niniejszym rozdziale.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
+*Odnośnik w tekście jednolitym* 14) Dodany przez art. 7 pkt 2 ustawy, o której mowa w odnośniku 13.
 
 Przepis zamyka regulację podwyższenia kapitału zakładowego w drodze zamiany obligacji kapitałowych na akcje dwoma przepisami odsyłającymi. § 1 nakazuje odpowiednie stosowanie przepisów rozdziału 4 (o zwykłym podwyższeniu kapitału), chyba że przepisy niniejszego rozdziału stanowią inaczej - analogicznie jak przy kapitale docelowym i warunkowym podwyższeniu (art. 453 § 1). § 2 potwierdza, że regulacja ta nie narusza kompetencji walnego zgromadzenia do podjęcia w tym samym czasie uchwały o zwykłym podwyższeniu kapitału w trybie art. 431 - przepis analogiczny do art. 454, zapewniający spójność systemową między poszczególnymi trybami podwyższenia kapitału zakładowego.
 
@@ -314,7 +314,7 @@ Przepis zamyka regulację podwyższenia kapitału zakładowego w drodze zamiany 
 
 **Brzmienie przepisu:**
 
-> Art. 455. § 1. Kapitał zakładowy obniża się, w drodze zmiany statutu, przez zmniejszenie wartości nominalnej akcji, połączenie akcji lub umorzenie części akcji oraz w przypadku podziału przez wydzielenie albo podziału przez wyodrębnienie.
+> Art. 455. § 1.⁽¹⁷⁾ Kapitał zakładowy obniża się, w drodze zmiany statutu, przez zmniejszenie wartości nominalnej akcji, połączenie akcji lub umorzenie części akcji oraz w przypadku podziału przez wydzielenie albo podziału przez wyodrębnienie.
 >
 > § 2. Uchwała o obniżeniu kapitału zakładowego oraz ogłoszenie o zwołaniu walnego zgromadzenia powinny określać cel obniżenia, kwotę, o którą kapitał zakładowy ma być obniżony, jak również sposób obniżenia.
 >
@@ -324,7 +324,7 @@ Przepis zamyka regulację podwyższenia kapitału zakładowego w drodze zamiany 
 >
 > § 5. Uchwała o obniżeniu kapitału zakładowego nie może być zgłoszona do sądu rejestrowego po upływie sześciu miesięcy od dnia jej powzięcia, a w przypadku gdy równocześnie z obniżeniem kapitału zakładowego następuje jego podwyższenie co najmniej do pierwotnej wysokości w drodze nowej emisji akcji od dnia ustalonego zgodnie z art. 431 § 4.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 17) W brzmieniu ustalonym przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 3.
 
 Przepis otwiera regulację obniżenia kapitału zakładowego spółki akcyjnej. § 1 wymienia sposoby obniżenia: zmniejszenie wartości nominalnej akcji, połączenie (scalenie) akcji, umorzenie części akcji, a także obniżenie następujące w ramach podziału spółki przez wydzielenie albo przez wyodrębnienie; każdorazowo obniżenie wymaga zmiany statutu, co podkreśla jego znaczenie dla struktury kapitałowej spółki i wymaga zachowania rygorów formalnych właściwych dla zmiany statutu. § 2 nakłada obowiązek precyzyjnego określenia w uchwale oraz w ogłoszeniu o zwołaniu walnego zgromadzenia celu obniżenia, kwoty obniżenia oraz sposobu jego przeprowadzenia - wymogi te służą przejrzystości wobec akcjonariuszy i wierzycieli, umożliwiając im ocenę, czy obniżenie zagraża ich interesom. § 3 przewiduje wyjątek od kompetencji walnego zgromadzenia w przypadku umorzenia akcji w trybie przymusowym lub automatycznym (art. 359 § 7 lub art. 363 § 5) - wówczas wystarcza uchwała zarządu zaprotokołowana przez notariusza, co upraszcza i przyspiesza procedurę w sytuacjach z góry przewidzianych statutem. § 4 nakazuje odpowiednie stosowanie przepisów działu dotyczących minimalnej wysokości kapitału zakładowego oraz akcji do obniżenia kapitału - obniżenie nie może więc doprowadzić do zejścia poniżej ustawowego minimum. § 5 wprowadza termin prekluzyjny sześciu miesięcy od podjęcia uchwały na zgłoszenie obniżenia do sądu rejestrowego, liczony jednak od dnia ustalonego zgodnie z art. 431 § 4 w przypadku tzw. obniżenia połączonego z jednoczesnym podwyższeniem co najmniej do pierwotnej wysokości, co odzwierciedla odmienną dynamikę takiej operacji.
 
@@ -384,13 +384,13 @@ Przepis reguluje zgłoszenie obniżenia kapitału zakładowego do sądu rejestro
 >
 > 1) przyczyny przewidziane w statucie;
 >
-> 2) uchwała walnego zgromadzenia o rozwiązaniu spółki albo o przeniesieniu siedziby spółki za granicę, chyba że przeniesienie siedziby ma nastąpić do innego państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, a prawo tego państwa to dopuszcza;
+> 2)⁽¹⁸⁾ uchwała walnego zgromadzenia o rozwiązaniu spółki albo o przeniesieniu siedziby spółki za granicę, chyba że przeniesienie siedziby ma nastąpić do innego państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, a prawo tego państwa to dopuszcza;
 >
 > 3) ogłoszenie upadłości spółki;
 >
 > 4) inne przyczyny przewidziane prawem.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 18) W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 3.
 
 Przepis otwiera regulację rozwiązania i likwidacji spółki akcyjnej, wymieniając przyczyny powodujące rozwiązanie spółki. Pkt 1 obejmuje przyczyny przewidziane w statucie (np. upływ oznaczonego czasu, osiągnięcie określonego celu) - autonomia woli akcjonariuszy pozwala z góry zaprogramować moment zakończenia bytu spółki. Pkt 2 wskazuje uchwałę walnego zgromadzenia o rozwiązaniu spółki albo o przeniesieniu jej siedziby za granicę, przy czym to drugie zdarzenie nie powoduje rozwiązania, jeżeli przeniesienie następuje do innego państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o EOG, a prawo tego państwa dopuszcza taką transgraniczną kontynuację działalności spółki bez utraty podmiotowości. Pkt 3 wskazuje ogłoszenie upadłości spółki - rozwiązanie następuje wówczas na zasadach szczególnych opisanych w art. 477. Pkt 4 stanowi klauzulę otwartą, obejmującą inne przyczyny przewidziane prawem (np. orzeczenie sądu w sprawach określonych w odrębnych przepisach).
 
@@ -724,21 +724,17 @@ Przepis ma charakter zastrzegający i potwierdza, że przepisy art. 479-489 nie 
 
 **Brzmienie przepisu:**
 
-> Art. 491. § 1. Spółki kapitałowe mogą się łączyć ze sobą oraz ze spółkami osobowymi; spółka osobowa, z wyłączeniem spółki komandytowo-akcyjnej, nie może jednakże być spółką przejmującą albo spółką nowo zawiązaną.
+> Art. 491. § 1.⁽¹⁹⁾ Spółki kapitałowe mogą się łączyć ze sobą oraz ze spółkami osobowymi; spółka osobowa, z wyłączeniem spółki komandytowo-akcyjnej, nie może jednakże być spółką przejmującą albo spółką nowo zawiązaną.
 >
-> § 1¹. Spółka kapitałowa oraz spółka komandytowo-akcyjna mogą się łączyć ze spółką zagraniczną, o której mowa w art. 119 pkt 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46–127, z późn. zm.), utworzoną zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mającą siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym (połączenie transgraniczne).
+> § 1¹.⁽¹⁹⁾ Spółka kapitałowa oraz spółka komandytowo-akcyjna mogą się łączyć ze spółką zagraniczną, o której mowa w art. 119 pkt 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek (Dz. Urz. UE L 169 z 30.06.2017, str. 46–127, z późn. zm.⁽²⁰⁾), utworzoną zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mającą siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym (połączenie transgraniczne).
 >
-> § 2. Spółki osobowe mogą się łączyć ze sobą tylko przez zawiązanie spółki kapitałowej albo spółki komandytowo- -akcyjnej albo przejęcie przez spółkę komandytowo-akcyjną.
+> § 2.⁽¹⁹⁾ Spółki osobowe mogą się łączyć ze sobą tylko przez zawiązanie spółki kapitałowej albo spółki komandytowo- -akcyjnej albo przejęcie przez spółkę komandytowo-akcyjną.
 >
 > § 3. Nie może się łączyć spółka w likwidacji, która rozpoczęła podział majątku, ani spółka w upadłości.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 19) W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 3.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 3.
-
-*Odnośnik w tekście jednolitym:* Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 172 z 26.06.2019, str. 18, Dz. Urz. UE L 186 z 11.07.2019, str. 80, Dz. Urz. UE L 321 z 12.12.2019, str. 1, Dz. Urz. UE L 20 z 24.01.2020, str. 24, Dz. Urz. UE L 317 z 01.10.2020, str. 39, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 137 z 22.04.2021, str. 20 oraz Dz. Urz. UE L 43 z 24.02.2022, str. 93.
-
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 6 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 20) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 172 z 26.06.2019, str. 18, Dz. Urz. UE L 186 z 11.07.2019, str. 80, Dz. Urz. UE L 321 z 12.12.2019, str. 1, Dz. Urz. UE L 20 z 24.01.2020, str. 24, Dz. Urz. UE L 317 z 01.10.2020, str. 39, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 137 z 22.04.2021, str. 20 oraz Dz. Urz. UE L 43 z 24.02.2022, str. 93.
 
 Przepis otwiera dział poświęcony łączeniu się spółek, określając podmiotowy zakres dopuszczalności połączeń. § 1 zezwala spółkom kapitałowym na łączenie się zarówno między sobą, jak i ze spółkami osobowymi, zastrzegając jednak, że spółka osobowa (z wyjątkiem spółki komandytowo-akcyjnej) nie może być spółką przejmującą ani spółką nowo zawiązaną - a więc może uczestniczyć w połączeniu wyłącznie jako spółka przejmowana lub łącząca się przez zawiązanie nowej spółki, nigdy jako podmiot "dominujący" strukturalnie po połączeniu. § 1¹ wprowadza instytucję połączenia transgranicznego, umożliwiając spółce kapitałowej oraz spółce komandytowo-akcyjnej łączenie się ze spółką zagraniczną w rozumieniu dyrektywy (UE) 2017/1132, utworzoną zgodnie z prawem państwa członkowskiego UE lub państwa-strony umowy o EOG, mającą tam siedzibę statutową, zarząd główny lub główny zakład - implementuje to unijne standardy swobody przedsiębiorczości w wymiarze transgranicznym. § 2 reguluje łączenie się spółek osobowych między sobą, dopuszczając je wyłącznie w drodze zawiązania spółki kapitałowej, spółki komandytowo-akcyjnej, albo przejęcia przez spółkę komandytowo-akcyjną - spółki osobowe nie mogą więc łączyć się "między sobą" z zachowaniem formy osobowej innej niż komandytowo-akcyjna. § 3 wyłącza możliwość łączenia się spółki znajdującej się w likwidacji, która rozpoczęła już podział majątku, oraz spółki w stanie upadłości - w obu przypadkach doszłoby bowiem do kolizji między celem połączenia (kontynuacją działalności w nowej strukturze) a stanem faktycznym i prawnym uniemożliwiającym taką kontynuację.
 
@@ -750,13 +746,13 @@ Przepis otwiera dział poświęcony łączeniu się spółek, określając podmi
 >
 > 1) przez przeniesienie całego majątku spółki (przejmowanej) na inną spółkę (przejmującą) za udziały lub akcje, które spółka przejmująca przyznaje wspólnikom spółki przejmowanej (łączenie się przez przejęcie);
 >
-> 2) przez zawiązanie spółki kapitałowej albo spółki komandytowo-akcyjnej, na którą przechodzi majątek wszystkich łączących się spółek za udziały albo akcje nowej spółki (łączenie się przez zawiązanie nowej spółki).
+> 2)⁽²¹⁾ przez zawiązanie spółki kapitałowej albo spółki komandytowo-akcyjnej, na którą przechodzi majątek wszystkich łączących się spółek za udziały albo akcje nowej spółki (łączenie się przez zawiązanie nowej spółki).
 >
 > § 2. Wspólnicy spółki przejmowanej lub spółek łączących się przez zawiązanie nowej spółki mogą otrzymać obok udziałów lub akcji spółki przejmującej bądź spółki nowo zawiązanej dopłaty w gotówce, nieprzekraczające łącznie 10% wartości bilansowej przyznanych udziałów albo akcji spółki przejmującej, określonej według oświadczenia, o którym mowa w art. 499 § 2 pkt 4, bądź 10% wartości nominalnej przyznanych udziałów albo akcji spółki nowo zawiązanej. Dopłaty spółki przejmującej są dokonywane z zysku bądź z kapitału zapasowego tej spółki.
 >
 > § 3. Spółka przejmująca lub spółka nowo zawiązana może uzależnić przyznanie swoich udziałów lub akcji wspólnikom spółki przejmowanej lub spółek łączących się przez zawiązanie nowej spółki od wniesienia dopłat w gotówce nieprzekraczających wartości, o której mowa w § 2.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 21) W brzmieniu ustalonym przez art. 1 pkt 7 ustawy, o której mowa w odnośniku 3.
 
 Przepis określa dwa podstawowe sposoby dokonania połączenia spółek. § 1 pkt 1 opisuje łączenie się przez przejęcie: cały majątek spółki przejmowanej przechodzi na spółkę przejmującą, a wspólnicy spółki przejmowanej otrzymują w zamian udziały lub akcje przyznane przez spółkę przejmującą. Pkt 2 opisuje łączenie się przez zawiązanie nowej spółki: majątek wszystkich łączących się spółek przechodzi na nowo zawiązaną spółkę kapitałową albo komandytowo-akcyjną, w zamian za udziały lub akcje tej nowej spółki. § 2 dopuszcza, obok udziałów lub akcji spółki przejmującej bądź nowo zawiązanej, wypłatę wspólnikom spółki przejmowanej (lub spółek łączących się przez zawiązanie) dopłat w gotówce, ograniczonych łącznie do 10% wartości bilansowej przyznanych udziałów lub akcji spółki przejmującej (ustalonej według oświadczenia z art. 499 § 2 pkt 4) albo 10% wartości nominalnej udziałów lub akcji spółki nowo zawiązanej, przy czym dopłaty spółki przejmującej finansowane są z zysku lub kapitału zapasowego - ograniczenie procentowe ma zapobiec obejściu istoty połączenia (wymiany udziałowej) na rzecz w istocie transakcji sprzedażowej finansowanej gotówką. § 3 dopuszcza z kolei uzależnienie przyznania udziałów lub akcji od wniesienia przez wspólników dopłat w gotówce, nieprzekraczających wartości wskazanej w § 2 - to rozwiązanie odwrotne, umożliwiające dostosowanie parytetu wymiany.
 
@@ -798,9 +794,9 @@ Przepis wyraża zasadę sukcesji uniwersalnej, będącą istotą cywilnoprawnego
 
 > Art. 495. § 1. Majątek każdej z połączonych spółek powinien być zarządzany przez spółkę przejmującą bądź spółkę nowo zawiązaną oddzielnie, aż do dnia zaspokojenia lub zabezpieczenia wierzycieli, których wierzytelności powstały przed dniem połączenia, a którzy przed upływem sześciu miesięcy od dnia ogłoszenia o połączeniu zażądali na piśmie zapłaty.
 >
-> § 2. Za prowadzenie oddzielnego zarządu członkowie organów albo wspólnicy prowadzący sprawy spółki przejmującej lub spółki nowo zawiązanej odpowiadają solidarnie.
+> § 2.⁽²²⁾ Za prowadzenie oddzielnego zarządu członkowie organów albo wspólnicy prowadzący sprawy spółki przejmującej lub spółki nowo zawiązanej odpowiadają solidarnie.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 22) W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 3.
 
 Przepis wprowadza mechanizm ochrony wierzycieli spółek łączących się poprzez czasowe utrzymanie odrębności zarządzania majątkami. § 1 nakłada obowiązek oddzielnego zarządzania majątkiem każdej z połączonych spółek przez spółkę przejmującą lub nowo zawiązaną, aż do dnia zaspokojenia lub zabezpieczenia wierzycieli, których wierzytelności powstały przed dniem połączenia, a którzy w terminie sześciu miesięcy od dnia ogłoszenia o połączeniu zażądali na piśmie zapłaty - mechanizm ten zapobiega "wymieszaniu" majątków połączonych spółek, zanim wierzyciele sprzed połączenia zostaną zaspokojeni lub zabezpieczeni, co mogłoby pogorszyć ich sytuację, na przykład przez konkurencję z wierzycielami drugiej z łączących się spółek. § 2 wprowadza solidarną odpowiedzialność członków organów albo wspólników prowadzących sprawy spółki przejmującej lub nowo zawiązanej za prowadzenie tego oddzielnego zarządu - podkreśla to wagę prawidłowego wykonania tego obowiązku ochronnego.
 

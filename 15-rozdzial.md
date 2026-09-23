@@ -166,7 +166,7 @@ Przepis wprowadza obowiązkową kontrolę zewnętrzną planu przekształcenia pr
 
 > Art. 584⁹. Oświadczenie o przekształceniu przedsiębiorcy powinno zostać sporządzone w formie aktu notarialnego i określać co najmniej:
 >
-> 1) formę prawną spółki, w jaką zostaje przekształcony przedsiębiorca;
+> 1)⁽¹⁰⁸⁾ formę prawną spółki, w jaką zostaje przekształcony przedsiębiorca;
 >
 > 2) wysokość kapitału zakładowego albo kapitału akcyjnego;
 >
@@ -174,7 +174,7 @@ Przepis wprowadza obowiązkową kontrolę zewnętrzną planu przekształcenia pr
 >
 > 4) nazwiska i imiona członków zarządu spółki przekształconej.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 51 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 108) W brzmieniu ustalonym przez art. 1 pkt 51 ustawy, o której mowa w odnośniku 3.
 
 Przepis określa wymaganą formę oraz obligatoryjną treść oświadczenia o przekształceniu przedsiębiorcy – dokumentu, który w procedurze przekształcenia przedsiębiorcy pełni funkcję analogiczną do uchwały o przekształceniu podejmowanej przez wspólników spółki handlowej (art. 562 i n.), z tą różnicą, że ze względu na jednoosobowy charakter przedsiębiorcy przybiera formę jednostronnego oświadczenia woli, a nie uchwały organu kolegialnego. Oświadczenie musi być sporządzone w formie aktu notarialnego, co – analogicznie jak przy planie przekształcenia (art. 584⁶) – zapewnia pewność prawną i kontrolę notarialną nad tak istotną czynnością. Ustawa określa minimalną, obligatoryjną treść oświadczenia: formę prawną spółki, w jaką przekształca się przedsiębiorca (pkt 1), wysokość kapitału zakładowego albo kapitału akcyjnego nowo powstającej spółki (pkt 2), zakres praw przyznanych osobiście przedsiębiorcy przekształcanemu jako przyszłemu wspólnikowi albo akcjonariuszowi, o ile ustawa przewiduje możliwość przyznania takich praw osobistych (pkt 3), oraz nazwiska i imiona członków zarządu spółki przekształconej (pkt 4). Przypis urzędowy do tego artykułu wskazuje, że obecne brzmienie przepisu zostało ustalone nowelizującą ustawą (art. 1 pkt 51), co oznacza, że treść wymogów co do oświadczenia była przedmiotem zmiany legislacyjnej po pierwotnym uchwaleniu przepisów o przekształceniu przedsiębiorcy – dla stosowania przepisu istotne jest zatem uwzględnienie aktualnie obowiązującego brzmienia katalogu elementów obligatoryjnych.
 
@@ -376,11 +376,11 @@ Przepis penalizuje naruszenie obowiązków informacyjnych dotyczących obowiązk
 
 **Brzmienie przepisu:**
 
-> Art. 595¹. § 1. Kto składa ofertę nabycia udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 182¹ § 1 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
+> Art. 595¹.⁽¹⁰⁹⁾ § 1. Kto składa ofertę nabycia udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 182¹ § 1 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
 >
 > § 2. Tej samej karze podlega, kto promuje nabycie udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 182¹ § 2.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 48 pkt 3 ustawy, o której mowa w odnośniku 9; wszedł w życie z dniem 10 listopada 2023 r.
+*Odnośnik w tekście jednolitym* 109) Dodany przez art. 48 pkt 3 ustawy, o której mowa w odnośniku 9; wszedł w życie z dniem 10 listopada 2023 r.
 
 Przepis, wprowadzony nowelizacją wskazaną w przypisie urzędowym (art. 48 pkt 3 ustawy powołanej w odnośniku 9, z mocą od 10 listopada 2023 r.), penalizuje naruszenie zakazu publicznego oferowania nabycia udziałów w spółce z ograniczoną odpowiedzialnością poza reżimem właściwym dla obrotu regulowanego – a ściślej narusza normę zakazującą wymienioną w art. 182¹ § 1, wprowadzoną w celu przeciwdziałania nieuprawnionemu, masowemu obrotowi udziałami spółek z o.o. w sposób przypominający ofertę publiczną papierów wartościowych, co byłoby sprzeczne z naturą udziału jako prawa nieinkorporowanego w papierze wartościowym i podlegającego ograniczeniom zbywalności właściwym dla spółek osobowo-kapitałowych. Paragraf 1 penalizuje samo składanie takiej oferty, zagrożone grzywną, karą ograniczenia wolności albo pozbawienia wolności do 6 miesięcy. Paragraf 2 rozciąga tę samą sankcję na promowanie nabycia udziałów w sposób określony w art. 182¹ § 2 – a więc na działania reklamowe lub marketingowe towarzyszące niedozwolonej ofercie, nawet jeśli sama oferta byłaby składana przez inny podmiot. Wprowadzenie tego przepisu wiąże się z rozwojem platform internetowych umożliwiających pozyskiwanie kapitału (crowdfunding udziałowy) i ma zapobiegać obchodzeniu regulacji ochronnych właściwych dla oferowania instrumentów finansowych poprzez wykorzystywanie w tym celu udziałów w spółkach z o.o.
 
@@ -388,11 +388,11 @@ Przepis, wprowadzony nowelizacją wskazaną w przypisie urzędowym (art. 48 pkt 
 
 **Brzmienie przepisu:**
 
-> Art. 595². § 1. Kto składa ofertę objęcia nowych udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 257¹ § 1 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
+> Art. 595².⁽¹⁰⁹⁾ § 1. Kto składa ofertę objęcia nowych udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 257¹ § 1 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.
 >
 > § 2. Tej samej karze podlega, kto promuje objęcie nowych udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 257¹ § 2.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 48 pkt 3 ustawy, o której mowa w odnośniku 9; wszedł w życie z dniem 10 listopada 2023 r.
+*Odnośnik w tekście jednolitym* 109) Dodany przez art. 48 pkt 3 ustawy, o której mowa w odnośniku 9; wszedł w życie z dniem 10 listopada 2023 r.
 
 Przepis, wprowadzony tą samą nowelizacją co art. 595¹ (art. 48 pkt 3 ustawy powołanej w odnośniku 9, z mocą od 10 listopada 2023 r.), stanowi jego odpowiednik odnoszący się do etapu podwyższenia kapitału zakładowego, a nie obrotu wtórnego udziałami już istniejącymi. Paragraf 1 penalizuje składanie oferty objęcia nowych udziałów w spółce z ograniczoną odpowiedzialnością w sposób określony w art. 257¹ § 1 (a więc z naruszeniem analogicznego zakazu publicznego oferowania, tym razem odniesionego do udziałów obejmowanych w podwyższonym kapitale zakładowym), zagrożone grzywną, karą ograniczenia wolności albo pozbawienia wolności do 6 miesięcy. Paragraf 2 penalizuje promowanie objęcia nowych udziałów w sposób określony w art. 257¹ § 2, z tą samą sankcją. Oba przepisy – art. 595¹ i 595² – tworzą spójną parę norm chroniących zasadę, że udziały w spółce z ograniczoną odpowiedzialnością, niezależnie od tego, czy chodzi o obrót wtórny, czy o pierwotne objęcie w ramach podwyższenia kapitału, nie mogą być przedmiotem oferty publicznej w rozumieniu zbliżonym do obrotu papierami wartościowymi, co odróżnia tę formę spółki kapitałowej od spółki akcyjnej i prostej spółki akcyjnej, gdzie – przy zachowaniu odrębnych rygorów wynikających z prawa rynku kapitałowego – taka możliwość jest immanentną cechą konstrukcji akcji.
 

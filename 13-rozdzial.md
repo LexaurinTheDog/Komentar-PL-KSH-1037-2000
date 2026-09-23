@@ -28,7 +28,7 @@ Przepis otwiera rozdział 3 tytułu IV działu I, poświęcony łączeniu się z
 
 > Art. 518. § 1. Plan połączenia powinien zawierać co najmniej:
 >
-> 1) formę prawną, firmę i siedzibę każdej z łączących się spółek, sposób łączenia, a w przypadku połączenia przez zawiązanie nowej spółki – również formę prawną, firmę i siedzibę tej spółki;
+> 1)⁽⁷⁵⁾ formę prawną, firmę i siedzibę każdej z łączących się spółek, sposób łączenia, a w przypadku połączenia przez zawiązanie nowej spółki – również formę prawną, firmę i siedzibę tej spółki;
 >
 > 2) liczbę i wartość udziałów albo akcji spółki przejmującej bądź spółki nowo zawiązanej, przyznanych wspólnikom łączącej się spółki osobowej, oraz wysokość ewentualnych dopłat;
 >
@@ -38,7 +38,7 @@ Przepis otwiera rozdział 3 tytułu IV działu I, poświęcony łączeniu się z
 >
 > § 2. Przepis art. 499 § 2 i § 3 stosuje się odpowiednio.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 27 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 75) W brzmieniu ustalonym przez art. 1 pkt 27 ustawy, o której mowa w odnośniku 3.
 
 Przepis określa minimalną, obligatoryjną treść planu połączenia z udziałem spółki osobowej, gdy jego sporządzenie jest wymagane albo dokonywane dobrowolnie. Punkt 1 nakazuje wskazanie formy prawnej, firmy i siedziby każdej z łączących się spółek oraz sposobu łączenia, a w razie połączenia przez zawiązanie nowej spółki – również jej formy prawnej, firmy i siedziby, co pozwala jednoznacznie zidentyfikować uczestników procesu i jego docelowy kształt organizacyjny. Punkt 2 koncentruje się na aspekcie majątkowo-korporacyjnym połączenia, obligując do określenia liczby i wartości udziałów albo akcji przyznawanych wspólnikom łączącej się spółki osobowej w spółce przejmującej bądź nowo zawiązanej oraz wysokości ewentualnych dopłat, co ma istotne znaczenie z uwagi na odmienną – często nieudziałową lub nieokreśloną kwotowo – strukturę partycypacji w zyskach spółki osobowej. Punkt 3 wymaga wskazania dnia, od którego przyznane udziały lub akcje uprawniają do udziału w zysku spółki przejmującej lub nowo zawiązanej, co rozstrzyga moment przejścia wspólnika spółki osobowej z reżimu partycypacji właściwego spółkom osobowym na reżim dywidendowy spółek kapitałowych. Punkt 4 nakazuje ujawnienie szczególnych korzyści przyznanych wspólnikom łączącej się spółki osobowej oraz innym osobom uczestniczącym w połączeniu, realizując funkcję antykorupcyjną i informacyjną analogiczną do rozwiązań przyjętych przy łączeniu spółek kapitałowych. Paragraf 2 nakazuje odpowiednie stosowanie art. 499 § 2 i 3, a więc przepisów pozwalających pominąć w planie połączenia niektóre elementy nieistotne z uwagi na konkretny sposób łączenia się spółek oraz regulujących udostępnianie planu wspólnikom przed powzięciem uchwały; przypis urzędowy wskazuje, że przepis w obecnym brzmieniu pochodzi z nowelizacji wskazanej w odnośniku 3, co ma znaczenie dla ustalenia stanu prawnego właściwego dla połączeń przygotowywanych przed jej wejściem w życie.
 
@@ -54,13 +54,13 @@ Przepis nakłada na łączące się spółki obowiązek zgłoszenia planu połą
 
 **Brzmienie przepisu:**
 
-> Art. 520. § 1. Gdy spółką przejmującą albo spółką nowo zawiązaną jest spółka akcyjna albo spółka komandytowo- -akcyjna, plan połączenia należy poddać badaniu przez biegłego w zakresie poprawności i rzetelności.
+> Art. 520. § 1.⁽⁷⁶⁾ Gdy spółką przejmującą albo spółką nowo zawiązaną jest spółka akcyjna albo spółka komandytowo- -akcyjna, plan połączenia należy poddać badaniu przez biegłego w zakresie poprawności i rzetelności.
 >
 > § 2. W przypadku innym niż określony w § 1 plan połączenia należy poddać badaniu biegłego, gdy zażąda tego co najmniej jeden ze wspólników łączących się spółek, składając w tej sprawie w spółce, której jest wspólnikiem, pisemny wniosek, nie później niż w terminie siedmiu dni od dnia powiadomienia go przez spółkę o zamiarze połączenia.
 >
 > § 3. Przepisy art. 501, art. 502 § 2 i 3 oraz art. 503 stosuje się odpowiednio.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 28 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 76) W brzmieniu ustalonym przez art. 1 pkt 28 ustawy, o której mowa w odnośniku 3.
 
 Przepis reguluje kwestię obligatoryjnego oraz fakultatywnego badania planu połączenia przez biegłego rewidenta, różnicując te wymogi w zależności od formy prawnej spółki przejmującej lub nowo zawiązanej. Paragraf 1 wprowadza obowiązek badania planu w każdym przypadku, gdy spółką przejmującą albo nowo zawiązaną jest spółka akcyjna albo spółka komandytowo-akcyjna – a więc formy, w których ochrona kapitału zakładowego i interesów akcjonariuszy wymaga niezależnej weryfikacji poprawności i rzetelności planu, w szczególności przyjętego parytetu wymiany udziałów wspólników spółki osobowej na akcje. Paragraf 2 przewiduje natomiast rozwiązanie fakultatywne dla pozostałych przypadków (spółka przejmująca lub nowo zawiązana będąca spółką z ograniczoną odpowiedzialnością albo prostą spółką akcyjną) – badanie jest wówczas przeprowadzane wyłącznie na żądanie co najmniej jednego wspólnika którejkolwiek z łączących się spółek, zgłoszone na piśmie w terminie siedmiu dni od powiadomienia go o zamiarze połączenia, co stanowi wyraz zasady proporcjonalności obciążeń formalnych do rzeczywistego ryzyka dla wspólników mniejszościowych. Paragraf 3 odsyła odpowiednio do przepisów art. 501 (treść i tryb opinii biegłego), art. 502 § 2 i 3 (wynagrodzenie i koszty biegłego) oraz art. 503 (termin sporządzenia opinii), zapewniając spójność proceduralną z reżimem badania planu połączenia spółek kapitałowych. Przypis urzędowy wskazuje na nowelizacyjne pochodzenie obecnego brzmienia przepisu.
 
@@ -68,13 +68,13 @@ Przepis reguluje kwestię obligatoryjnego oraz fakultatywnego badania planu poł
 
 **Brzmienie przepisu:**
 
-> Art. 521. § 1. Łącząca się spółka zawiadamia wspólników, którzy nie prowadzą spraw spółki, dwukrotnie, w sposób przewidziany dla zawiadamiania wspólników, o zamiarze połączenia z inną spółką. Pierwszego zawiadomienia dokonuje się nie później niż na sześć tygodni przed planowanym dniem podjęcia uchwały o połączeniu, a drugiego w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia. Zgłoszenie wniosku, o którym mowa w art. 520 § 2, wymaga dodatkowego zawiadomienia, wskazującego nowy termin planowanego podjęcia uchwały.
+> Art. 521. § 1.⁽⁷⁷⁾ Łącząca się spółka zawiadamia wspólników, którzy nie prowadzą spraw spółki, dwukrotnie, w sposób przewidziany dla zawiadamiania wspólników, o zamiarze połączenia z inną spółką. Pierwszego zawiadomienia dokonuje się nie później niż na sześć tygodni przed planowanym dniem podjęcia uchwały o połączeniu, a drugiego w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia. Zgłoszenie wniosku, o którym mowa w art. 520 § 2, wymaga dodatkowego zawiadomienia, wskazującego nowy termin planowanego podjęcia uchwały.
 >
 > § 2. Zawiadomienie to powinno określać co najmniej miejsce oraz termin, w którym wspólnicy mogą się zapoznać z dokumentami połączenia. Termin ten nie może być krótszy niż miesiąc przed planowanym dniem powzięcia uchwały o połączeniu.
 >
 > § 3. Przepis art. 505 stosuje się odpowiednio.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 29 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 77) W brzmieniu ustalonym przez art. 1 pkt 29 ustawy, o której mowa w odnośniku 3.
 
 Przepis normuje obowiązek informacyjny wobec wspólników łączącej się spółki, którzy nie prowadzą jej spraw, a zatem nie uczestniczą bezpośrednio w przygotowaniu planu połączenia i mogliby zostać zaskoczeni jego skutkami. Paragraf 1 wprowadza wymóg dwukrotnego zawiadomienia takich wspólników o zamiarze połączenia, w sposób przewidziany dla zawiadamiania wspólników – pierwsze zawiadomienie musi nastąpić nie później niż sześć tygodni przed planowanym dniem podjęcia uchwały o połączeniu, drugie zaś nie wcześniej niż w odstępie dwóch tygodni od pierwszego, co ma zapewnić wspólnikom realny czas na zapoznanie się z dokumentacją i podjęcie decyzji o ewentualnym żądaniu zbadania planu przez biegłego na podstawie art. 520 § 2; zgłoszenie takiego wniosku wymaga dodatkowego zawiadomienia wskazującego nowy termin uchwały. Paragraf 2 precyzuje minimalną treść zawiadomienia, które musi wskazywać miejsce oraz termin zapoznania się z dokumentami połączenia, przy czym termin ten nie może być krótszy niż miesiąc przed planowanym dniem powzięcia uchwały. Paragraf 3 nakazuje odpowiednie stosowanie art. 505, regulującego zakres dokumentów udostępnianych wspólnikom spółek kapitałowych, co ujednolica standard informacyjny niezależnie od formy prawnej spółki. Regulacja ta pełni istotną funkcję ochronną wobec wspólników biernych (komandytariuszy, wspólników niebędących wspólnikami zarządzającymi), których pozycja informacyjna w spółce osobowej jest z reguły słabsza niż wspólników prowadzących jej sprawy.
 
@@ -154,23 +154,23 @@ Przepis wprowadza odpowiedzialność biegłego badającego plan połączenia z u
 
 **Brzmienie przepisu:**
 
-> Art. 528. § 1. Spółkę kapitałową i spółkę komandytowo-akcyjną można podzielić na dwie albo więcej spółek kapitałowych lub spółek komandytowo-akcyjnych. Nie jest dopuszczalny podział spółki akcyjnej i spółki komandytowo-akcyjnej, jeżeli kapitał zakładowy nie został pokryty w całości.
+> Art. 528. § 1.⁽⁷⁹⁾ Spółkę kapitałową i spółkę komandytowo-akcyjną można podzielić na dwie albo więcej spółek kapitałowych lub spółek komandytowo-akcyjnych. Nie jest dopuszczalny podział spółki akcyjnej i spółki komandytowo-akcyjnej, jeżeli kapitał zakładowy nie został pokryty w całości.
 >
-> § 1¹. Spółkę kapitałową i spółkę komandytowo-akcyjną można podzielić na dwie albo więcej spółek mających formę wymienioną w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek, utworzonych zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mających siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, pod warunkiem że co najmniej dwie ze spółek uczestniczących w podziale podlegają prawu różnych państw członkowskich Unii Europejskiej lub państw-stron umowy o Europejskim Obszarze Gospodarczym (podział transgraniczny).
+> § 1¹.⁽⁸⁰⁾ Spółkę kapitałową i spółkę komandytowo-akcyjną można podzielić na dwie albo więcej spółek mających formę wymienioną w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek, utworzonych zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mających siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, pod warunkiem że co najmniej dwie ze spółek uczestniczących w podziale podlegają prawu różnych państw członkowskich Unii Europejskiej lub państw-stron umowy o Europejskim Obszarze Gospodarczym (podział transgraniczny).
 >
-> § 2. Spółka osobowa inna niż spółka komandytowo-akcyjna nie podlega podziałowi.
+> § 2.⁽⁸¹⁾ Spółka osobowa inna niż spółka komandytowo-akcyjna nie podlega podziałowi.
 >
 > § 3. Nie może być dzielona spółka w likwidacji, która rozpoczęła podział majątku, ani spółka w upadłości.
 >
-> § 4. Ilekroć w przepisach niniejszego działu jest mowa o zarządzie spółki, należy przez to rozumieć odpowiednio wspólników prowadzących sprawy spółki komandytowo-akcyjnej uczestniczącej w podziale.
+> § 4.⁽⁸²⁾ Ilekroć w przepisach niniejszego działu jest mowa o zarządzie spółki, należy przez to rozumieć odpowiednio wspólników prowadzących sprawy spółki komandytowo-akcyjnej uczestniczącej w podziale.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 31 lit. a ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 79) W brzmieniu ustalonym przez art. 1 pkt 31 lit. a ustawy, o której mowa w odnośniku 3.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 31 lit. b ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 80) Dodany przez art. 1 pkt 31 lit. b ustawy, o której mowa w odnośniku 3.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 31 lit. c ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 81) W brzmieniu ustalonym przez art. 1 pkt 31 lit. c ustawy, o której mowa w odnośniku 3.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 31 lit. d ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 82) Dodany przez art. 1 pkt 31 lit. d ustawy, o której mowa w odnośniku 3.
 
 Przepis otwiera dział II tytułu IV, poświęcony podziałowi spółek, i określa podmiotowy zakres dopuszczalności tej instytucji. Paragraf 1 zezwala na podział spółki kapitałowej i spółki komandytowo-akcyjnej na dwie albo więcej spółek kapitałowych lub spółek komandytowo-akcyjnych, jednocześnie wyłączając dopuszczalność podziału spółki akcyjnej i spółki komandytowo-akcyjnej, jeżeli ich kapitał zakładowy nie został pokryty w całości – ograniczenie to ma chronić wierzycieli i przyszłych wspólników spółek powstałych w wyniku podziału przed rozproszeniem nieopłaconego w pełni kapitału pomiędzy kilka podmiotów. Paragraf 1¹ rozszerza zakres podmiotowy o podział transgraniczny, umożliwiając podział spółki kapitałowej lub komandytowo-akcyjnej na spółki mające formę wymienioną w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132, utworzone zgodnie z prawem innego państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, pod warunkiem że co najmniej dwie spółki uczestniczące w podziale podlegają prawu różnych państw – przepis ten stanowi implementację unijnej dyrektywy w sprawie transgranicznych przekształceń, łączeń i podziałów spółek. Paragraf 2 wyłącza z zakresu podmiotowego podziału spółki osobowe inne niż komandytowo-akcyjna, co koresponduje z konstrukcyjną odrębnością tych spółek i brakiem w nich instytucji kapitału zakładowego, wobec którego podział mógłby być technicznie przeprowadzony. Paragraf 3 zakazuje podziału spółki będącej w likwidacji, która rozpoczęła podział majątku, oraz spółki w upadłości, chroniąc w ten sposób interes wierzycieli w toku postępowań mających na celu zaspokojenie ich roszczeń z majątku spółki. Paragraf 4 zawiera definicję legalną, nakazującą przez pojęcie „zarządu spółki” użyte w przepisach działu II rozumieć odpowiednio wspólników prowadzących sprawy spółki komandytowo-akcyjnej uczestniczącej w podziale, co jest konieczne wobec braku organu zarządu w tej spółce w klasycznym rozumieniu.
 
@@ -178,7 +178,7 @@ Przepis otwiera dział II tytułu IV, poświęcony podziałowi spółek, i okre�
 
 **Brzmienie przepisu:**
 
-> Art. 529. § 1. Podział może być dokonany:
+> Art. 529. § 1.⁽⁸³⁾ Podział może być dokonany:
 >
 > 1) przez przeniesienie całego majątku spółki dzielonej na inne spółki za udziały albo akcje spółki przejmującej, które obejmują wspólnicy spółki dzielonej (podział przez przejęcie);
 >
@@ -190,15 +190,13 @@ Przepis otwiera dział II tytułu IV, poświęcony podziałowi spółek, i okre�
 >
 > 5) przez przeniesienie części majątku spółki dzielonej na istniejącą lub nowo zawiązaną spółkę albo spółki za udziały lub akcje spółki albo spółek przejmujących lub nowo zawiązanych, które obejmuje spółka dzielona (podział przez wyodrębnienie).
 >
-> § 2. Do podziału przez wydzielenie oraz podziału przez wyodrębnienie stosuje się przepisy o podziale spółek dotyczące odpowiednio spółki przejmującej lub spółki nowo zawiązanej. W przypadku podziału przez wyodrębnienie nie stosuje się przepisów art. 534 § 1 pkt 2, 3–5 i 8, art. 536 § 1, art. 537, art. 538 i art. 541 § 5.
+> § 2.⁽⁸³⁾ Do podziału przez wydzielenie oraz podziału przez wyodrębnienie stosuje się przepisy o podziale spółek dotyczące odpowiednio spółki przejmującej lub spółki nowo zawiązanej. W przypadku podziału przez wyodrębnienie nie stosuje się przepisów art. 534 § 1 pkt 2, 3–5 i 8, art. 536 § 1, art. 537, art. 538 i art. 541 § 5.
 >
 > § 3. Wspólnicy spółki dzielonej mogą otrzymać obok udziałów lub akcji spółek przejmujących bądź spółek nowo zawiązanych dopłaty w gotówce nieprzekraczające łącznie 10% wartości bilansowej przyznanych udziałów lub akcji właściwej spółki przejmującej, określonej według oświadczenia, o którym mowa w art. 534 § 2 pkt 4, bądź 10% wartości nominalnej przyznanych udziałów lub akcji właściwej spółki nowo zawiązanej. Dopłaty spółki przejmującej są dokonywane z zysku bądź z kapitału zapasowego tej spółki.
 >
 > § 4. Każda ze spółek przejmujących lub spółek nowo zawiązanych może uzależnić przyznanie swoich udziałów albo akcji wspólnikom spółki dzielonej od wniesienia dopłat w gotówce nieprzekraczających wartości, o której mowa w § 3.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 32 ustawy, o której mowa w odnośniku 3.
-
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 32 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 83) W brzmieniu ustalonym przez art. 1 pkt 32 ustawy, o której mowa w odnośniku 3.
 
 Przepis wymienia w § 1 pięć dopuszczalnych sposobów podziału spółki, różniących się zakresem przenoszonego majątku oraz podmiotem obejmującym udziały lub akcje spółki (spółek) przejmujących lub nowo zawiązanych. Punkty 1–3 dotyczą podziałów pełnych, w których cały majątek spółki dzielonej przechodzi na inne podmioty (podział przez przejęcie, podział przez zawiązanie nowych spółek oraz podział przez przejęcie i zawiązanie nowej spółki łącznie), co skutkuje ustaniem bytu prawnego spółki dzielonej. Punkt 4 reguluje podział przez wydzielenie, w którym tylko część majątku przechodzi na spółkę (spółki) przejmujące lub nowo zawiązane, a udziały lub akcje obejmują wspólnicy spółki dzielonej, która zachowuje byt prawny. Punkt 5 wprowadza podział przez wyodrębnienie – instytucję relatywnie nową w polskim prawie spółek – w której część majątku przechodzi na spółkę (spółki) przejmujące lub nowo zawiązane, lecz udziały lub akcje obejmuje sama spółka dzielona, a nie jej wspólnicy, co czyni ten typ podziału funkcjonalnie zbliżonym do wniesienia zorganizowanej części przedsiębiorstwa aportem, przy zachowaniu jednak reżimu sukcesji uniwersalnej właściwej podziałowi. Paragraf 2 nakazuje odpowiednie stosowanie do podziału przez wydzielenie i wyodrębnienie przepisów o podziale dotyczących spółki przejmującej lub nowo zawiązanej oraz wyłącza przy podziale przez wyodrębnienie stosowanie szeregu przepisów niedostosowanych do sytuacji, w której to spółka dzielona, a nie jej wspólnicy, staje się beneficjentem nowych udziałów lub akcji (art. 534 § 1 pkt 2, 3–5 i 8, art. 536 § 1, art. 537, art. 538 i art. 541 § 5). Paragrafy 3 i 4 regulują dopuszczalność i limit dopłat gotówkowych na rzecz wspólników spółki dzielonej – nieprzekraczających łącznie 10% wartości bilansowej lub nominalnej przyznanych udziałów lub akcji – finansowanych z zysku lub kapitału zapasowego spółki przejmującej, przy czym spółki przejmujące lub nowo zawiązane mogą uzależnić przyznanie swoich udziałów lub akcji od wniesienia takich dopłat przez wspólników.
 
@@ -208,9 +206,9 @@ Przepis wymienia w § 1 pięć dopuszczalnych sposobów podziału spółki, ró�
 
 > Art. 530. § 1. Spółka dzielona zostaje rozwiązana bez przeprowadzenia postępowania likwidacyjnego w dniu wykreślenia jej z rejestru (dzień podziału).
 >
-> § 2. Przepis § 1 nie dotyczy podziału przez wydzielenie oraz podziału przez wyodrębnienie. Wydzielenie albo wyodrębnienie nowej spółki następuje w dniu jej wpisu do rejestru. W przypadku przeniesienia części majątku spółki dzielonej na spółkę istniejącą wydzielenie albo wyodrębnienie następuje w dniu wpisu do rejestru podwyższenia kapitału zakładowego spółki przejmującej lub emisji przez spółkę przejmującą nowych akcji bez wartości nominalnej (dzień wydzielenia albo dzień wyodrębnienia).
+> § 2.⁽⁸⁴⁾ Przepis § 1 nie dotyczy podziału przez wydzielenie oraz podziału przez wyodrębnienie. Wydzielenie albo wyodrębnienie nowej spółki następuje w dniu jej wpisu do rejestru. W przypadku przeniesienia części majątku spółki dzielonej na spółkę istniejącą wydzielenie albo wyodrębnienie następuje w dniu wpisu do rejestru podwyższenia kapitału zakładowego spółki przejmującej lub emisji przez spółkę przejmującą nowych akcji bez wartości nominalnej (dzień wydzielenia albo dzień wyodrębnienia).
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 33 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 84) W brzmieniu ustalonym przez art. 1 pkt 33 ustawy, o której mowa w odnośniku 3.
 
 Przepis określa moment ustania bytu prawnego spółki dzielonej oraz moment powstania skutków podziału przez wydzielenie i wyodrębnienie, wprowadzając kluczowe dla całej instytucji podziału pojęcia dnia podziału, dnia wydzielenia i dnia wyodrębnienia. Paragraf 1 stanowi, że w przypadku podziałów pełnych (przez przejęcie, zawiązanie nowych spółek oraz ich kombinację) spółka dzielona zostaje rozwiązana bez przeprowadzenia postępowania likwidacyjnego z dniem jej wykreślenia z rejestru, co stanowi istotne uproszczenie w porównaniu z ogólnym reżimem rozwiązania i likwidacji spółek, uzasadnione tym, że majątek spółki dzielonej w całości przechodzi na sukcesorów uniwersalnych. Paragraf 2 wyłącza tę zasadę w odniesieniu do podziału przez wydzielenie i wyodrębnienie, w których spółka dzielona nie ustaje, a jedynie następuje przejście części jej majątku – wydzielenie albo wyodrębnienie nowej spółki następuje w dniu jej wpisu do rejestru, natomiast w razie przeniesienia części majątku na spółkę już istniejącą – w dniu wpisu do rejestru podwyższenia jej kapitału zakładowego lub emisji nowych akcji bez wartości nominalnej. Rozróżnienie to ma fundamentalne znaczenie praktyczne, gdyż wyznacza moment przejścia praw i obowiązków (art. 531), moment powstania odpowiedzialności solidarnej (art. 546) oraz punkt odniesienia dla licznych terminów proceduralnych przewidzianych w dalszych przepisach.
 
@@ -218,11 +216,11 @@ Przepis określa moment ustania bytu prawnego spółki dzielonej oraz moment pow
 
 **Brzmienie przepisu:**
 
-> Art. 531. § 1. Spółki przejmujące lub spółki nowo zawiązane powstałe w związku z podziałem wstępują z dniem podziału albo z dniem wydzielenia albo z dniem wyodrębnienia w prawa i obowiązki spółki dzielonej, określone w planie podziału.
+> Art. 531. § 1.⁽⁸⁵⁾ Spółki przejmujące lub spółki nowo zawiązane powstałe w związku z podziałem wstępują z dniem podziału albo z dniem wydzielenia albo z dniem wyodrębnienia w prawa i obowiązki spółki dzielonej, określone w planie podziału.
 >
-> § 2. Na spółkę przejmującą lub spółkę nowo zawiązaną powstałą w związku z podziałem przechodzą z dniem podziału albo z dniem wydzielenia albo z dniem wyodrębnienia w szczególności zezwolenia, koncesje oraz ulgi, pozostające w związku z przydzielonymi jej w planie podziału składnikami majątku spółki dzielonej, a które zostały przyznane spółce dzielonej, chyba że ustawa lub decyzja o udzieleniu zezwolenia, koncesji lub ulgi stanowi inaczej.
+> § 2.⁽⁸⁵⁾ Na spółkę przejmującą lub spółkę nowo zawiązaną powstałą w związku z podziałem przechodzą z dniem podziału albo z dniem wydzielenia albo z dniem wyodrębnienia w szczególności zezwolenia, koncesje oraz ulgi, pozostające w związku z przydzielonymi jej w planie podziału składnikami majątku spółki dzielonej, a które zostały przyznane spółce dzielonej, chyba że ustawa lub decyzja o udzieleniu zezwolenia, koncesji lub ulgi stanowi inaczej.
 >
-> § 2¹. Spółka, która w toku postępowania o prawo objęte przeniesionym majątkiem nabyła w wyniku podziału przez wydzielenie albo podziału przez wyodrębnienie część majątku spółki dzielonej, wstępuje do postępowania o to prawo w miejsce spółki dzielonej bez potrzeby uzyskania zgody strony przeciwnej.
+> § 2¹.⁽⁸⁵⁾ Spółka, która w toku postępowania o prawo objęte przeniesionym majątkiem nabyła w wyniku podziału przez wydzielenie albo podziału przez wyodrębnienie część majątku spółki dzielonej, wstępuje do postępowania o to prawo w miejsce spółki dzielonej bez potrzeby uzyskania zgody strony przeciwnej.
 >
 > § 3. Do składników majątku spółki dzielonej nieprzypisanych w planie podziału określonej spółce przejmującej lub spółce nowo zawiązanej stosuje się odpowiednio przepisy o współwłasności w częściach ułamkowych. Udział spółki przejmującej lub spółki nowo zawiązanej we wspólności jest proporcjonalny do wartości aktywów przypadających każdej z tych spółek w planie podziału. Za zobowiązania spółki dzielonej, nieprzypisane w planie podziału spółkom przejmującym lub spółkom nowo zawiązanym, spółki te odpowiadają solidarnie.
 >
@@ -232,11 +230,7 @@ Przepis określa moment ustania bytu prawnego spółki dzielonej oraz moment pow
 >
 > § 6. Przepisu § 2 nie stosuje się do zezwoleń i koncesji udzielonych spółce będącej instytucją finansową, jeżeli organ, który wydał zezwolenie lub udzielił koncesji, zgłosił sprzeciw w terminie miesiąca od dnia ogłoszenia planu podziału.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 34 ustawy, o której mowa w odnośniku 3.
-
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 34 ustawy, o której mowa w odnośniku 3.
-
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 34 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 85) W brzmieniu ustalonym przez art. 1 pkt 34 ustawy, o której mowa w odnośniku 3.
 
 Przepis stanowi normatywny rdzeń instytucji sukcesji uniwersalnej przy podziale spółek. Paragraf 1 przewiduje, że spółki przejmujące lub nowo zawiązane powstałe w związku z podziałem wstępują z dniem podziału, wydzielenia albo wyodrębnienia w prawa i obowiązki spółki dzielonej określone w planie podziału – jest to sukcesja uniwersalna częściowa, gdyż ograniczona zakresem przypisanym poszczególnym spółkom w planie, w przeciwieństwie do pełnej sukcesji uniwersalnej przy łączeniu się spółek. Paragraf 2 rozciąga tę sukcesję na zezwolenia, koncesje i ulgi pozostające w związku ze składnikami majątku przydzielonymi danej spółce, chyba że ustawa lub decyzja administracyjna stanowi inaczej, co ma istotne znaczenie dla ciągłości działalności reglamentowanej. Paragraf 2¹ reguluje sukcesję procesową w postępowaniach dotyczących praw objętych przeniesionym majątkiem przy podziale przez wydzielenie lub wyodrębnienie, przewidując wstąpienie spółki przejmującej do postępowania bez potrzeby zgody strony przeciwnej, co odróżnia tę sukcesję od ogólnych zasad następstwa procesowego przy przelewie wierzytelności. Paragraf 3 reguluje losy składników majątku nieprzypisanych w planie podziału żadnej ze spółek, poddając je odpowiednio przepisom o współwłasności w częściach ułamkowych proporcjonalnych do wartości przydzielonych aktywów, a za nieprzypisane zobowiązania spółki odpowiadają solidarnie – rozwiązanie to zapobiega powstaniu luki majątkowej wskutek niedoskonałości planu podziału. Paragraf 4 reguluje kwestię ujawnienia przejścia praw w księgach wieczystych i rejestrach na wniosek spółek przejmujących. Paragraf 5 określa moment, w którym wspólnicy spółki dzielonej stają się wspólnikami spółki przejmującej wskazanej w planie podziału – z dniem podziału bądź wydzielenia. Paragraf 6 wprowadza wyjątek od sukcesji zezwoleń i koncesji udzielonych instytucji finansowej, jeżeli właściwy organ zgłosił sprzeciw w terminie miesiąca od ogłoszenia planu podziału, co chroni interes publiczny w sektorze finansowym przed niekontrolowanym przejściem uprawnień regulacyjnych.
 
@@ -244,13 +238,13 @@ Przepis stanowi normatywny rdzeń instytucji sukcesji uniwersalnej przy podziale
 
 **Brzmienie przepisu:**
 
-> Art. 532. § 1. Do podziału spółki stosuje się przepis art. 441 § 3 oraz odpowiednio przepisy dotyczące powstania właściwej formy prawnej spółki przejmującej albo spółki nowo zawiązanej, z wyłączeniem przepisów o wkładach niepieniężnych, jeżeli przepisy niniejszego działu nie stanowią inaczej.
+> Art. 532.⁽⁸⁶⁾ § 1. Do podziału spółki stosuje się przepis art. 441 § 3 oraz odpowiednio przepisy dotyczące powstania właściwej formy prawnej spółki przejmującej albo spółki nowo zawiązanej, z wyłączeniem przepisów o wkładach niepieniężnych, jeżeli przepisy niniejszego działu nie stanowią inaczej.
 >
 > § 2. Do podziału przez wydzielenie oraz podziału przez wyodrębnienie, następującego przez obniżenie kapitału zakładowego, nie stosuje się przepisów art. 264 § 1 i art. 265 § 2 pkt 2 i 3 – w razie podziału spółki z ograniczoną odpowiedzialnością, albo przepisów art. 456 i art. 458 § 2 pkt 3 i 4 – w razie podziału spółki akcyjnej albo spółki komandytowo-akcyjnej.
 >
 > § 3. Z powodu braków, o których mowa w art. 21 § 1, podział nie może być uchylony w przypadku, gdy od dnia podziału albo wydzielenia albo wyodrębnienia upłynęło sześć miesięcy.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 35 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 86) W brzmieniu ustalonym przez art. 1 pkt 35 ustawy, o której mowa w odnośniku 3.
 
 Przepis reguluje relację między przepisami o podziale spółek a przepisami ogólnymi dotyczącymi powstawania poszczególnych form prawnych spółek oraz obniżenia kapitału zakładowego. Paragraf 1 nakazuje odpowiednie stosowanie do podziału spółki art. 441 § 3 oraz przepisów o powstaniu właściwej formy prawnej spółki przejmującej albo nowo zawiązanej, z wyłączeniem przepisów o wkładach niepieniężnych – wyłączenie to jest uzasadnione tym, że w podziale nie dochodzi do wniesienia wkładu w klasycznym rozumieniu, lecz do sukcesji uniwersalnej majątku na podstawie planu podziału, co czyni zbędnym odrębne badanie aportu w trybie właściwym dla wkładów niepieniężnych. Paragraf 2 wyłącza przy podziale przez wydzielenie oraz wyodrębnienie, następującym przez obniżenie kapitału zakładowego, stosowanie części przepisów o trybie obniżenia kapitału (art. 264 § 1 i art. 265 § 2 pkt 2 i 3 dla spółki z ograniczoną odpowiedzialnością albo art. 456 i art. 458 § 2 pkt 3 i 4 dla spółki akcyjnej i komandytowo-akcyjnej), co upraszcza procedurę, gdyż ochrona wierzycieli jest już zapewniona przez mechanizmy szczególne podziału (art. 546, 550¹⁴). Paragraf 3 wprowadza sześciomiesięczny termin prekluzyjny, po upływie którego podział nie może być uchylony z powodu braków, o których mowa w art. 21 § 1 (a więc braków dotyczących powstania spółki, takich jak wady umowy lub statutu), co ma na celu ochronę pewności obrotu i stabilizację skutków dokonanego podziału.
 
@@ -274,11 +268,11 @@ Przepis otwiera rozdział 2, poświęcony podziałowi spółek kapitałowych, i 
 
 > Art. 534. § 1. Plan podziału powinien zawierać co najmniej:
 >
-> 1) formę prawną, firmę i siedzibę każdej ze spółek uczestniczących w podziale;
+> 1)⁽⁸⁸⁾ formę prawną, firmę i siedzibę każdej ze spółek uczestniczących w podziale;
 >
-> 2) stosunek wymiany udziałów albo akcji spółki dzielonej na udziały lub akcje spółek przejmujących bądź spółek nowo zawiązanych i wysokość ewentualnych dopłat pieniężnych, chyba że nie dochodzi do takiej wymiany;
+> 2)⁽⁸⁸⁾ stosunek wymiany udziałów albo akcji spółki dzielonej na udziały lub akcje spółek przejmujących bądź spółek nowo zawiązanych i wysokość ewentualnych dopłat pieniężnych, chyba że nie dochodzi do takiej wymiany;
 >
-> 2¹) w przypadku podziału przez wyodrębnienie informację o liczbie i wartości udziałów lub akcji w spółce albo spółkach przejmujących lub nowo zawiązanych obejmowanych przez spółkę dzieloną;
+> 2¹)⁽⁸⁹⁾ w przypadku podziału przez wyodrębnienie informację o liczbie i wartości udziałów lub akcji w spółce albo spółkach przejmujących lub nowo zawiązanych obejmowanych przez spółkę dzieloną;
 >
 > 3) zasady dotyczące przyznania udziałów lub akcji w spółkach przejmujących lub w spółkach nowo zawiązanych;
 >
@@ -290,7 +284,7 @@ Przepis otwiera rozdział 2, poświęcony podziałowi spółek kapitałowych, i 
 >
 > 7) dokładny opis i podział składników majątku (aktywów i pasywów) oraz zezwoleń, koncesji lub ulg przypadających spółkom przejmującym lub spółkom nowo zawiązanym;
 >
-> 8) podział między wspólników spółki dzielonej udziałów lub akcji spółek przejmujących lub spółek nowo zawiązanych lub w przypadku podziału przez wydzielenie – spółki dzielonej oraz zasady tego podziału.
+> 8)⁽⁹⁰⁾ podział między wspólników spółki dzielonej udziałów lub akcji spółek przejmujących lub spółek nowo zawiązanych lub w przypadku podziału przez wydzielenie – spółki dzielonej oraz zasady tego podziału.
 >
 > § 2. Do planu podziału należy dołączyć:
 >
@@ -310,13 +304,11 @@ Przepis otwiera rozdział 2, poświęcony podziałowi spółek kapitałowych, i 
 >
 > § 4. Informacji, o której mowa w § 2 pkt 4, nie sporządza spółka publiczna, jeżeli zgodnie z przepisami o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych publikuje i udostępnia akcjonariuszom półroczne sprawozdania finansowe.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 37 lit. a ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 88) W brzmieniu ustalonym przez art. 1 pkt 37 lit. a ustawy, o której mowa w odnośniku 3.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 37 lit. a ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 89) Dodany przez art. 1 pkt 37 lit. b ustawy, o której mowa w odnośniku 3.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 37 lit. b ustawy, o której mowa w odnośniku 3.
-
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 37 lit. c ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 90) W brzmieniu ustalonym przez art. 1 pkt 37 lit. c ustawy, o której mowa w odnośniku 3.
 
 Przepis stanowi odpowiednik art. 518 na gruncie podziału spółek kapitałowych, określając obligatoryjną treść planu podziału oraz katalog dokumentów, które muszą zostać do niego dołączone. Paragraf 1 wylicza elementy planu: formę prawną, firmę i siedzibę spółek uczestniczących w podziale (pkt 1); stosunek wymiany udziałów lub akcji spółki dzielonej na udziały lub akcje spółek przejmujących bądź nowo zawiązanych wraz z wysokością ewentualnych dopłat (pkt 2), stanowiący jeden z newralgicznych elementów planu, gdyż determinuje wartość majątkową otrzymywaną przez wspólników; szczególną informację o liczbie i wartości udziałów lub akcji obejmowanych przez samą spółkę dzieloną przy podziale przez wyodrębnienie (pkt 2¹), odzwierciedlającą odmienny mechanizm tego typu podziału; zasady przyznania udziałów lub akcji (pkt 3) oraz dzień uprawniający do udziału w zysku (pkt 4); prawa przyznane przez spółki przejmujące lub nowo zawiązane wspólnikom oraz osobom szczególnie uprawnionym w spółce dzielonej (pkt 5), korespondujące z gwarancją z art. 547; szczególne korzyści dla członków organów i innych osób uczestniczących w podziale (pkt 6), pełniące funkcję antykorupcyjną; dokładny opis i podział składników majątku wraz z zezwoleniami, koncesjami i ulgami (pkt 7), stanowiący istotę planu podziału jako dokumentu wyznaczającego zakres sukcesji uniwersalnej; oraz podział między wspólników spółki dzielonej udziałów lub akcji spółek przejmujących lub nowo zawiązanych wraz z zasadami tego podziału (pkt 8). Paragraf 2 nakazuje dołączenie do planu projektu uchwały o podziale, projektu zmian umowy lub statutu spółki przejmującej albo projektu umowy lub statutu spółki nowo zawiązanej, ustalenia wartości majątku spółki dzielonej na określony dzień w miesiącu poprzedzającym złożenie wniosku o ogłoszenie planu oraz oświadczenia o stanie księgowym spółki sporządzonego dla celów podziału. Paragrafy 3 i 4 precyzują wymogi dotyczące tego oświadczenia (brak konieczności nowej inwentaryzacji, zasady aktualizacji wartości bilansowych) oraz wyłączają obowiązek jego sporządzenia w odniesieniu do spółki publicznej publikującej półroczne sprawozdania finansowe zgodnie z przepisami o ofercie publicznej, co stanowi wyraz zasady unikania powielania obowiązków informacyjnych już realizowanych na podstawie innego reżimu prawnego.
 
@@ -362,19 +354,19 @@ Przepis wprowadza obowiązek badania planu podziału przez biegłego w zakresie 
 
 **Brzmienie przepisu:**
 
-> Art. 538. § 1. Biegły sporządza na piśmie szczegółową opinię w terminie określonym przez sąd, nie dłuższym jednak niż dwa miesiące od dnia jego wyznaczenia, i składa ją sądowi rejestrowemu oraz zarządom spółek uczestniczących w podziale wraz z planem podziału. Opinia zawiera co najmniej: 1) stwierdzenie, czy stosunek wymiany udziałów lub akcji, o którym mowa w art. 534 § 1 pkt 2, jest ustalony należycie;
+> Art. 538. § 1. Biegły sporządza na piśmie szczegółową opinię w terminie określonym przez sąd, nie dłuższym jednak niż dwa miesiące od dnia jego wyznaczenia, i składa ją sądowi rejestrowemu oraz zarządom spółek uczestniczących w podziale wraz z planem podziału. Opinia zawiera co najmniej:⁽⁹¹⁾ 1) stwierdzenie, czy stosunek wymiany udziałów lub akcji, o którym mowa w art. 534 § 1 pkt 2, jest ustalony należycie;
 >
 > 2) wskazanie metody albo metod użytych dla określenia proponowanego w planie podziału stosunku wymiany udziałów lub akcji wraz z oceną zasadności ich zastosowania;
 >
 > 3) wskazanie szczególnych trudności związanych z wyceną udziałów lub akcji dzielonej spółki.
 >
-> § 1¹. W przypadku wskazania przez spółkę informacji stanowiących tajemnicę przedsiębiorstwa lub innych prawnie chronionych informacji zawartych w opinii biegły składa do sądu rejestrowego dodatkowo odpis opinii z pominięciem tych informacji.
+> § 1¹.⁽⁹²⁾ W przypadku wskazania przez spółkę informacji stanowiących tajemnicę przedsiębiorstwa lub innych prawnie chronionych informacji zawartych w opinii biegły składa do sądu rejestrowego dodatkowo odpis opinii z pominięciem tych informacji.
 >
 > § 2. Na pisemne żądanie biegłego zarządy spółek uczestniczących w podziale przedłożą mu dodatkowe wyjaśnienia lub dokumenty.
 
-*Odnośnik w tekście jednolitym:* Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 1 pkt 38 lit. a ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 91) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 1 pkt 38 lit. a ustawy, o której mowa w odnośniku 3.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 38 lit. b ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 92) Dodany przez art. 1 pkt 38 lit. b ustawy, o której mowa w odnośniku 3.
 
 Przepis precyzuje wymogi formalne i treściowe opinii biegłego badającego plan podziału. Paragraf 1 nakłada obowiązek sporządzenia opinii na piśmie w terminie wyznaczonym przez sąd, nieprzekraczającym dwóch miesięcy od dnia wyznaczenia biegłego, oraz złożenia jej sądowi rejestrowemu i zarządom spółek uczestniczących w podziale wraz z planem podziału; treść opinii musi obejmować co najmniej stwierdzenie, czy stosunek wymiany udziałów lub akcji jest ustalony należycie, wskazanie zastosowanych metod wyceny wraz z oceną zasadności ich użycia oraz wskazanie szczególnych trudności związanych z wyceną udziałów lub akcji spółki dzielonej – regulacja ta zapewnia merytoryczną kompletność opinii jako podstawy do oceny rzetelności planu przez wspólników i sąd. Paragraf 1¹ chroni tajemnicę przedsiębiorstwa oraz inne prawnie chronione informacje, nakazując biegłemu złożenie do sądu rejestrowego dodatkowego odpisu opinii z pominięciem takich informacji, co godzi jawność postępowania rejestrowego z uzasadnionym interesem spółek w ochronie poufnych danych gospodarczych. Paragraf 2 nakłada na zarządy spółek uczestniczących w podziale obowiązek udzielenia biegłemu dodatkowych wyjaśnień lub dokumentów na jego pisemne żądanie, co umożliwia biegłemu rzetelne wykonanie powierzonych mu czynności kontrolnych.
 
@@ -388,9 +380,9 @@ Przepis precyzuje wymogi formalne i treściowe opinii biegłego badającego plan
 >
 > § 2. Sporządzenie dokumentów, o których mowa w art. 534 § 2 pkt 4 oraz w art. 536 § 1, a także badanie planu podziału przez biegłego i jego opinia nie są wymagane w przypadku podziału przez zawiązanie nowych spółek, jeżeli plan podziału przewiduje, że wspólnicy spółki dzielonej zachowają udział posiadany w kapitale zakładowym spółki dzielonej w kapitałach zakładowych wszystkich spółek nowo zawiązanych.
 >
-> § 3. Jeżeli zgodnie z § 1 lub 2 lub w przypadku podziału przez wyodrębnienie plan podziału nie jest poddany badaniu przez biegłego, do składników majątku przypadających w planie podziału spółce przejmującej albo spółce nowo zawiązanej, będącej spółką akcyjną, stosuje się odpowiednio przepisy art. 311–312¹. Jeżeli sporządzane jest sprawozdanie, o którym mowa w art. 536 § 1, należy do niego dołączyć informację o sporządzeniu w trybie art. 312 opinii biegłych rewidentów oraz wskazać sąd rejestrowy, w którym opinia biegłych rewidentów została złożona.
+> § 3.⁽⁹³⁾ Jeżeli zgodnie z § 1 lub 2 lub w przypadku podziału przez wyodrębnienie plan podziału nie jest poddany badaniu przez biegłego, do składników majątku przypadających w planie podziału spółce przejmującej albo spółce nowo zawiązanej, będącej spółką akcyjną, stosuje się odpowiednio przepisy art. 311–312¹. Jeżeli sporządzane jest sprawozdanie, o którym mowa w art. 536 § 1, należy do niego dołączyć informację o sporządzeniu w trybie art. 312 opinii biegłych rewidentów oraz wskazać sąd rejestrowy, w którym opinia biegłych rewidentów została złożona.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 39 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 93) W brzmieniu ustalonym przez art. 1 pkt 39 ustawy, o której mowa w odnośniku 3.
 
 Przepis wprowadza istotne uproszczenia proceduralne przy podziale, których zastosowanie jest uzależnione od zgody wszystkich wspólników spółek uczestniczących w podziale lub od szczególnego charakteru samego podziału. Paragraf 1 przewiduje, że za zgodą wszystkich wspólników każdej ze spółek uczestniczących nie jest wymagane sporządzenie oświadczenia o stanie księgowym (art. 534 § 2 pkt 4), udzielenie informacji o istotnych zmianach majątkowych (art. 536 § 4) ani badanie planu podziału przez biegłego wraz z jego opinią – rozwiązanie to opiera się na założeniu, że skoro wszyscy wspólnicy akceptują rezygnację z tych mechanizmów ochronnych, ich funkcja informacyjna i kontrolna staje się zbędna. Paragraf 2 wprowadza analogiczne, lecz automatyczne (niewymagające zgody wspólników) zwolnienie z obowiązku sporządzenia oświadczenia o stanie księgowym, sprawozdania zarządu oraz badania planu przez biegłego w przypadku podziału przez zawiązanie nowych spółek, jeżeli plan podziału przewiduje zachowanie przez wspólników spółki dzielonej dotychczasowego udziału w kapitale zakładowym proporcjonalnie we wszystkich spółkach nowo zawiązanych – w takiej sytuacji ryzyko pokrzywdzenia wspólników jest minimalne, gdyż struktura właścicielska pozostaje niezmieniona. Paragraf 3 wprowadza mechanizm zastępczy dla ochrony wierzycieli i kapitału zakładowego w sytuacji rezygnacji z badania planu przez biegłego: do składników majątku przypadających spółce przejmującej lub nowo zawiązanej będącej spółką akcyjną stosuje się wówczas odpowiednio przepisy art. 311–312¹ dotyczące badania wkładów niepieniężnych przy założeniu spółki akcyjnej, a jeżeli sporządzane jest sprawozdanie zarządu (art. 536 § 1), należy do niego dołączyć informację o sporządzeniu opinii biegłych rewidentów w trybie art. 312 oraz wskazać właściwy sąd rejestrowy, w którym opinię złożono.
 
@@ -398,7 +390,7 @@ Przepis wprowadza istotne uproszczenia proceduralne przy podziale, których zast
 
 **Brzmienie przepisu:**
 
-> Art. 539. § 1. Zarządy spółek uczestniczących w podziale zawiadamiają wspólników o zamiarze podziału spółki dzielonej i przeniesienia jej majątku na spółki przejmujące lub spółki nowo zawiązane dwukrotnie, w sposób przewidziany dla zwoływania zgromadzeń wspólników albo walnych zgromadzeń. Pierwszego zawiadomienia dokonuje się nie później niż na sześć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale, a drugiego w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia.
+> Art. 539. § 1.⁽⁹⁴⁾ Zarządy spółek uczestniczących w podziale zawiadamiają wspólników o zamiarze podziału spółki dzielonej i przeniesienia jej majątku na spółki przejmujące lub spółki nowo zawiązane dwukrotnie, w sposób przewidziany dla zwoływania zgromadzeń wspólników albo walnych zgromadzeń. Pierwszego zawiadomienia dokonuje się nie później niż na sześć tygodni przed datą zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o podziale, a drugiego w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia.
 >
 > § 2. Zawiadomienie, o którym mowa w § 1, powinno zawierać co najmniej:
 >
@@ -406,7 +398,7 @@ Przepis wprowadza istotne uproszczenia proceduralne przy podziale, których zast
 >
 > 2) miejsce oraz termin, w którym wspólnicy mogą się zapoznać z dokumentami wymienionymi w art. 540 § 1; termin ten nie może być krótszy niż miesiąc przed planowanym dniem powzięcia uchwały o podziale.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 40 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 94) W brzmieniu ustalonym przez art. 1 pkt 40 ustawy, o której mowa w odnośniku 3.
 
 Przepis reguluje obowiązek informacyjny wobec wspólników spółek uczestniczących w podziale. Paragraf 1 nakazuje zarządom tych spółek dwukrotne zawiadomienie wspólników o zamiarze podziału spółki dzielonej i przeniesienia jej majątku, w sposób przewidziany dla zwoływania zgromadzeń wspólników albo walnych zgromadzeń – pierwsze zawiadomienie nie później niż sześć tygodni przed planowanym zgromadzeniem podejmującym uchwałę o podziale, drugie w odstępie nie krótszym niż dwa tygodnie od pierwszego, co odzwierciedla schemat przyjęty w art. 521 dla łączenia z udziałem spółek osobowych. Paragraf 2 określa minimalną treść zawiadomienia: numer Monitora Sądowego i Gospodarczego, w którym ogłoszono plan podziału (chyba że samo zawiadomienie jest przedmiotem ogłoszenia), oraz miejsce i termin zapoznania się z dokumentami wymienionymi w art. 540 § 1, przy czym termin ten nie może być krótszy niż miesiąc przed planowanym dniem powzięcia uchwały – regulacja ta zapewnia wspólnikom realny, minimalny czas na analizę dokumentacji podziałowej przed podjęciem decyzji korporacyjnej o fundamentalnym znaczeniu dla ich sytuacji majątkowej i korporacyjnej.
 
@@ -466,13 +458,13 @@ Przepis reguluje uchwałę o podziale spółki, stanowiąc odpowiednik art. 522 
 >
 > § 3. Wpisu nowej spółki do rejestru dokonuje się na podstawie aktów organizacyjnych i uchwały wspólników tej spółki oraz uchwały zgromadzenia wspólników albo walnego zgromadzenia spółki dzielonej.
 >
-> § 4. Wpisu do rejestru podziału spółki przez wydzielenie albo podziału spółki przez wyodrębnienie dokonuje się niezwłocznie po zarejestrowaniu obniżenia kapitału zakładowego spółki dzielonej, chyba że wydzielenie albo wyodrębnienie następuje z kapitałów własnych spółki innych niż kapitał zakładowy.
+> § 4.⁽⁹⁵⁾ Wpisu do rejestru podziału spółki przez wydzielenie albo podziału spółki przez wyodrębnienie dokonuje się niezwłocznie po zarejestrowaniu obniżenia kapitału zakładowego spółki dzielonej, chyba że wydzielenie albo wyodrębnienie następuje z kapitałów własnych spółki innych niż kapitał zakładowy.
 >
 > § 5. W przypadku gdy siedziby właściwych sądów rejestrowych znajdują się w różnych miejscowościach, sąd rejestrowy właściwy według siedziby spółki przejmującej lub spółki nowo zawiązanej zawiadamia z urzędu niezwłocznie sąd rejestrowy właściwy według siedziby spółki dzielonej o wpisach, o których mowa w § 2–4.
 >
 > § 6. W przypadku, o którym mowa w § 5, sąd rejestrowy właściwy według siedziby spółki dzielonej, po wykreśleniu tej spółki z rejestru, przekazuje z urzędu sądom rejestrowym właściwym według siedziby pozostałych spółek uczestniczących w podziale dokumenty spółki dzielonej w celu ich przechowania.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 41 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 95) W brzmieniu ustalonym przez art. 1 pkt 41 ustawy, o której mowa w odnośniku 3.
 
 Przepis reguluje etap rejestrowy podziału spółek kapitałowych, będąc odpowiednikiem art. 523 na gruncie tej instytucji. Paragraf 1 nakłada na zarząd każdej ze spółek uczestniczących w podziale obowiązek zgłoszenia do sądu rejestrowego uchwały o podziale celem wpisania wzmianki o niej, ze wskazaniem roli danej spółki (spółka dzielona, przejmująca albo nowo zawiązana). Paragraf 2 reguluje moment wykreślenia spółki dzielonej z rejestru – następuje ono z urzędu, niezwłocznie po wpisie podwyższenia kapitału zakładowego spółek przejmujących, po wpisie emisji nowych akcji bez wartości nominalnej albo po wpisie nowych spółek uczestniczących w podziale, co zapewnia, że spółka dzielona nie ustanie, zanim spółki przejmujące będą zdolne przyjąć jej majątek i wspólników. Paragraf 3 określa podstawę wpisu nowej spółki do rejestru – akty organizacyjne i uchwałę jej wspólników oraz uchwałę zgromadzenia wspólników albo walnego zgromadzenia spółki dzielonej. Paragraf 4 reguluje moment wpisu podziału przez wydzielenie albo wyodrębnienie – niezwłocznie po zarejestrowaniu obniżenia kapitału zakładowego spółki dzielonej, chyba że wydzielenie albo wyodrębnienie następuje z innych kapitałów własnych niż kapitał zakładowy, co dopuszcza podział bez uszczuplenia kapitału zakładowego spółki dzielonej. Paragrafy 5 i 6 regulują współdziałanie sądów rejestrowych właściwych dla różnych spółek uczestniczących w podziale, w tym obowiązek zawiadamiania o dokonanych wpisach oraz przekazywania dokumentów spółki dzielonej po jej wykreśleniu do sądów właściwych dla pozostałych spółek celem ich przechowania.
 
@@ -488,7 +480,7 @@ Przepis nakłada obowiązek ogłoszenia o podziale spółki, precyzując, że do
 
 **Brzmienie przepisu:**
 
-> Art. 544. § 1. Po dniu podziału albo dniu wydzielenia albo dniu wyodrębnienia spółki powództwo o uchylenie albo stwierdzenie nieważności uchwały, o której mowa w art. 541, może być wytoczone jedynie przeciwko spółce przejmującej albo spółce nowo zawiązanej.
+> Art. 544. § 1.⁽⁹⁶⁾ Po dniu podziału albo dniu wydzielenia albo dniu wyodrębnienia spółki powództwo o uchylenie albo stwierdzenie nieważności uchwały, o której mowa w art. 541, może być wytoczone jedynie przeciwko spółce przejmującej albo spółce nowo zawiązanej.
 >
 > § 2. Powództwo, o którym mowa w § 1, może być wytoczone nie później niż w terminie miesiąca od dnia powzięcia uchwały. Przepisy art. 249, art. 250, art. 252 § 1 i 2, art. 253, art. 254 lub art. 422, art. 423, art. 425 § 1 i 5, art. 426 i art. 427 stosuje się odpowiednio.
 >
@@ -496,7 +488,7 @@ Przepis nakłada obowiązek ogłoszenia o podziale spółki, precyzując, że do
 >
 > § 4. Po uprawomocnieniu się orzeczenia o uchyleniu albo stwierdzeniu nieważności uchwały, o której mowa w art. 541, sąd zawiadamia z urzędu właściwe sądy rejestrowe.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 42 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 96) W brzmieniu ustalonym przez art. 1 pkt 42 ustawy, o której mowa w odnośniku 3.
 
 Przepis reguluje zaskarżanie uchwały o podziale po dokonaniu podziału, wydzielenia lub wyodrębnienia. Paragraf 1 przewiduje, że po tym dniu powództwo o uchylenie albo stwierdzenie nieważności uchwały, o której mowa w art. 541, może być wytoczone jedynie przeciwko spółce przejmującej albo nowo zawiązanej, co jest konieczną konsekwencją ustania bytu prawnego spółki dzielonej w razie podziału pełnego oraz zapewnia, że legitymację bierną w sporze posiada podmiot rzeczywiście istniejący i zdolny do udziału w postępowaniu. Paragraf 2 wprowadza miesięczny termin na wytoczenie powództwa, liczony od dnia powzięcia uchwały, oraz odsyła odpowiednio do przepisów o zaskarżaniu uchwał zgromadzenia wspólników i walnego zgromadzenia spółek z ograniczoną odpowiedzialnością i akcyjnych (art. 249, 250, 252 § 1 i 2, 253, 254 oraz art. 422, 423, 425 § 1 i 5, 426, 427), co ujednolica reżim proceduralny zaskarżania uchwał podziałowych z ogólnym reżimem zaskarżania uchwał korporacyjnych. Paragraf 3 wyłącza możliwość zaskarżenia uchwały wyłącznie z powodu zastrzeżeń dotyczących stosunku wymiany udziałów lub akcji, nie ograniczając jednak prawa do dochodzenia odszkodowania na zasadach ogólnych – rozwiązanie to chroni stabilność podziału przed paraliżującym ryzykiem zaskarżenia z powodów czysto wycenowych, kierując wspólników niezadowolonych z parytetu wymiany na drogę roszczeń odszkodowawczych zamiast unieważnienia całej operacji. Paragraf 4 nakłada na sąd obowiązek zawiadomienia z urzędu właściwych sądów rejestrowych po uprawomocnieniu się orzeczenia uchylającego albo stwierdzającego nieważność uchwały.
 

@@ -116,7 +116,7 @@ Przepis wprowadza odpowiedzialność odszkodowawczą wspólników prowadzących 
 
 > Art. 551. § 1. Spółka jawna, spółka partnerska, spółka komandytowa, spółka komandytowo-akcyjna, spółka z ograniczoną odpowiedzialnością, prosta spółka akcyjna oraz spółka akcyjna (spółka przekształcana) może być przekształcona w inną spółkę handlową (spółkę przekształconą).
 >
-> § 1¹. Spółka kapitałowa oraz spółka komandytowo-akcyjna mogą być przekształcone w spółkę zagraniczną mającą formę wymienioną w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek, podlegającą prawu państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mającą siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, z jednoczesnym przeniesieniem co najmniej siedziby statutowej do tego państwa (przekształcenie transgraniczne).
+> § 1¹.⁽⁹⁸⁾ Spółka kapitałowa oraz spółka komandytowo-akcyjna mogą być przekształcone w spółkę zagraniczną mającą formę wymienioną w załączniku II do dyrektywy Parlamentu Europejskiego i Rady (UE) 2017/1132 z dnia 14 czerwca 2017 r. w sprawie niektórych aspektów prawa spółek, podlegającą prawu państwa członkowskiego Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym i mającą siedzibę statutową, zarząd główny lub główny zakład na terenie Unii Europejskiej lub państwa-strony umowy o Europejskim Obszarze Gospodarczym, z jednoczesnym przeniesieniem co najmniej siedziby statutowej do tego państwa (przekształcenie transgraniczne).
 >
 > § 2. Spółka cywilna może być przekształcona w spółkę handlową, inną niż spółka jawna. Przepis ten nie narusza przepisów art. 26 § 4–6.
 >
@@ -126,7 +126,7 @@ Przepis wprowadza odpowiedzialność odszkodowawczą wspólników prowadzących 
 >
 > § 5. Przedsiębiorca będący osobą fizyczną wykonującą we własnym imieniu działalność gospodarczą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803, 1414 i 2029) – (przedsiębiorca przekształcany) może przekształcić formę prowadzonej działalności w jednoosobową spółkę kapitałową (spółkę przekształconą) (przekształcenie przedsiębiorcy w spółkę kapitałową).
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 44 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 98) Dodany przez art. 1 pkt 44 ustawy, o której mowa w odnośniku 3.
 
 Przepis otwiera dział III Kodeksu, poświęcony przekształceniom spółek, i definiuje podmiotowy zakres tej instytucji. Paragraf 1 wymienia zamknięty katalog spółek handlowych mogących ulec przekształceniu w inną spółkę handlową (przekształcenie „krajowe” w sensie podmiotowym): spółkę jawną, partnerską, komandytową, komandytowo-akcyjną, spółkę z ograniczoną odpowiedzialnością, prostą spółkę akcyjną oraz spółkę akcyjną, posługując się przy tym zdefiniowanymi na potrzeby całego działu pojęciami „spółki przekształcanej” (podmiotu wyjściowego) i „spółki przekształconej” (podmiotu docelowego). Paragraf 1¹ wprowadza definicję przekształcenia transgranicznego: spółka kapitałowa oraz spółka komandytowo-akcyjna mogą przekształcić się w spółkę zagraniczną o formie wymienionej w załączniku II do dyrektywy 2017/1132, podlegającą prawu państwa członkowskiego UE lub państwa-strony umowy o EOG, z siedzibą statutową, zarządem głównym lub głównym zakładem na terytorium Unii lub EOG, pod warunkiem jednoczesnego przeniesienia co najmniej siedziby statutowej do tego państwa – przepis ten stanowi implementację unijnej dyrektywy 2019/2121 o transgranicznych przekształceniach, łączeniach i podziałach. Paragraf 2 rozszerza dopuszczalność przekształcenia na spółkę cywilną, która może przekształcić się w spółkę handlową inną niż spółka jawna (dla przekształcenia spółki cywilnej w spółkę jawną Kodeks przewiduje odrębny, uproszczony tryb w art. 26 § 4–6, do którego § 2 zdanie drugie odsyła jako do regulacji niewzruszanej przez przepis niniejszy), a § 3 nakazuje do takiego przekształcenia stosować odpowiednio przepisy o przekształceniu spółki jawnej, z zastrzeżeniem, że do skutków przekształcenia stosuje się art. 26 § 5 (dotyczący odpowiedzialności wspólników za zobowiązania powstałe przed przekształceniem). Paragraf 4 wprowadza zakaz przekształcania spółki w likwidacji, która rozpoczęła podział majątku, oraz spółki w upadłości – w obu przypadkach ratio legis polega na tym, że proces zmierzający do zakończenia bytu prawnego spółki (likwidacja z rozpoczętym podziałem majątku) lub do zaspokojenia wierzycieli w drodze postępowania upadłościowego jest nie do pogodzenia z kontynuacją działalności w zmienionej formie prawnej. Paragraf 5, dodany nowelizacją wskazaną w przypisie urzędowym, wprowadza odrębną instytucję przekształcenia przedsiębiorcy będącego osobą fizyczną (w rozumieniu ustawy – Prawo przedsiębiorców) w jednoosobową spółkę kapitałową – jest to przekształcenie podmiotowo odmienne od przekształceń między spółkami handlowymi, gdyż punktem wyjścia nie jest spółka, lecz jednoosobowa działalność gospodarcza osoby fizycznej, i regulacja ta ma swój odrębny, szczegółowy tryb w dalszych przepisach Kodeksu (poza zakresem niniejszego rozdziału).
 
@@ -174,7 +174,7 @@ Przepis ustanawia ogólną klauzulę odesłania, zamykającą regulacje o charak
 
 > Art. 556. Do przekształcenia spółki wymaga się:
 >
-> 1) sporządzenia planu przekształcenia spółki wraz z załącznikami, a w przypadku przekształcenia w spółkę akcyjną – wraz z opinią biegłego rewidenta;
+> 1)⁽⁹⁹⁾ sporządzenia planu przekształcenia spółki wraz z załącznikami, a w przypadku przekształcenia w spółkę akcyjną – wraz z opinią biegłego rewidenta;
 >
 > 2) powzięcia uchwały o przekształceniu spółki;
 >
@@ -184,7 +184,7 @@ Przepis ustanawia ogólną klauzulę odesłania, zamykającą regulacje o charak
 >
 > 5) dokonania w rejestrze wpisu spółki przekształconej i wykreślenia spółki przekształcanej.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 45 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 99) W brzmieniu ustalonym przez art. 1 pkt 45 ustawy, o której mowa w odnośniku 3.
 
 Przepis wylicza w sposób wyczerpujący etapy (przesłanki) proceduralne, których łączne spełnienie warunkuje skuteczne przekształcenie spółki, tworząc swoisty „plan” dalszej części rozdziału. Są to kolejno: sporządzenie planu przekształcenia wraz z załącznikami (a przy przekształceniu w spółkę akcyjną – dodatkowo wraz z opinią biegłego rewidenta badającego ten plan, pkt 1); powzięcie uchwały o przekształceniu (pkt 2); powołanie członków organów spółki przekształconej albo określenie wspólników prowadzących jej sprawy i reprezentujących ją – w zależności od tego, czy spółką przekształconą jest spółka kapitałowa, czy osobowa (pkt 3); dokonanie wpisu spółki przekształconej do rejestru wraz z wykreśleniem spółki przekształcanej (pkt 5). Punkt 4 został uchylony – uprzednio przewidywał on odrębny wymóg zawarcia umowy albo podpisania statutu spółki przekształconej jako samodzielny etap procedury; obecnie, zgodnie z art. 563 § 2, samo podjęcie uchwały o przekształceniu zastępuje zawarcie umowy (zawiązanie statutu) spółki przekształconej, co czyni odrębny etap zbędnym i uzasadnia uchylenie pkt 4 nowelizacją wskazaną w przypisie urzędowym. Przepis ma znaczenie porządkujące i informacyjne – ułatwia odczytanie struktury całej procedury przekształceniowej opisanej szczegółowo w kolejnych artykułach.
 
@@ -232,11 +232,11 @@ Przepis określa minimalną treść planu przekształcenia oraz wykaz obowiązko
 >
 > § 3. Na pisemne żądanie biegłego rewidenta zarząd albo wspólnicy prowadzący sprawy spółki przedłożą mu dodatkowe wyjaśnienia lub dokumenty.
 >
-> § 4. Biegły rewident sporządza na piśmie szczegółową opinię, w terminie określonym przez sąd, nie dłuższym jednak niż dwa miesiące od dnia jego wyznaczenia, i składa ją sądowi rejestrowemu oraz spółce przekształcanej wraz z planem przekształcenia. W przypadku wskazania przez spółkę informacji stanowiących tajemnicę przedsiębiorstwa lub innych prawnie chronionych informacji zawartych w opinii biegły składa do sądu rejestrowego dodatkowo odpis opinii z pominięciem tych informacji.
+> § 4.⁽¹⁰⁰⁾ Biegły rewident sporządza na piśmie szczegółową opinię, w terminie określonym przez sąd, nie dłuższym jednak niż dwa miesiące od dnia jego wyznaczenia, i składa ją sądowi rejestrowemu oraz spółce przekształcanej wraz z planem przekształcenia. W przypadku wskazania przez spółkę informacji stanowiących tajemnicę przedsiębiorstwa lub innych prawnie chronionych informacji zawartych w opinii biegły składa do sądu rejestrowego dodatkowo odpis opinii z pominięciem tych informacji.
 >
 > § 5. Sąd rejestrowy określa wynagrodzenie za pracę biegłego rewidenta i zatwierdza rachunki jego wydatków. Jeżeli spółka przekształcana dobrowolnie tych należności nie uiści w terminie dwóch tygodni, sąd rejestrowy ściągnie je w trybie przewidzianym dla egzekucji opłat sądowych.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 46 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 100) W brzmieniu ustalonym przez art. 1 pkt 46 ustawy, o której mowa w odnośniku 3.
 
 Przepis wprowadza obowiązek zewnętrznej, niezależnej kontroli planu przekształcenia w przypadku przekształcenia w spółkę akcyjną – z uwagi na szczególne znaczenie ochrony kapitału zakładowego i rzetelnej wyceny majątku w tej formie spółki. Paragraf 1 wymaga zbadania planu przez biegłego rewidenta pod kątem poprawności i rzetelności, w tym w celu ustalenia, czy wycena składników majątku (aktywów i pasywów) spółki przekształcanej jest rzetelna – funkcjonalnie odpowiada to badaniu wkładów niepieniężnych przy tworzeniu spółki akcyjnej. Paragraf 2 powierza wyznaczenie biegłego rewidenta sądowi rejestrowemu właściwemu według siedziby spółki przekształcanej, działającemu na wniosek spółki, z możliwością wyznaczenia większej liczby biegłych w uzasadnionych przypadkach – co zapewnia niezależność biegłego od organów spółki. Paragraf 3 nakłada na zarząd (lub wspólników prowadzących sprawy spółki) obowiązek udzielania biegłemu na jego pisemne żądanie dodatkowych wyjaśnień i dokumentów, niezbędny dla rzetelności badania. Paragraf 4 określa formę i termin opinii (nie dłuższy niż dwa miesiące od wyznaczenia biegłego, chyba że sąd wskaże inny termin) oraz obowiązek jej złożenia zarówno sądowi rejestrowemu, jak i spółce przekształcanej wraz z planem przekształcenia, przewidując jednocześnie mechanizm ochrony tajemnicy przedsiębiorstwa – w takim przypadku do sądu trafia dodatkowo odpis opinii pozbawiony informacji poufnych, co pogodzi jawność postępowania rejestrowego z ochroną interesów gospodarczych spółki. Paragraf 5 reguluje kwestie wynagrodzenia biegłego, ustalanego i zatwierdzanego przez sąd rejestrowy, z możliwością przymusowego ściągnięcia należności w trybie egzekucji opłat sądowych w razie braku dobrowolnej zapłaty przez spółkę.
 
@@ -256,15 +256,15 @@ Przepis reguluje obowiązek dwukrotnego zawiadomienia wspólników o zamiarze po
 
 **Brzmienie przepisu:**
 
-> Art. 561. § 1. Wspólnicy mają prawo przeglądać w lokalu spółki dokumenty, o których mowa w art. 558 i art. 559 § 4, oraz żądać wydania im bezpłatnie odpisów tych dokumentów. Wspólnikom, którzy wyrazili zgodę na wykorzystanie przez spółkę środków komunikacji elektronicznej w celu przekazywania informacji, można przesłać odpisy tych dokumentów w postaci elektronicznej.
+> Art. 561. § 1.⁽¹⁰¹⁾ Wspólnicy mają prawo przeglądać w lokalu spółki dokumenty, o których mowa w art. 558 i art. 559 § 4, oraz żądać wydania im bezpłatnie odpisów tych dokumentów. Wspólnikom, którzy wyrazili zgodę na wykorzystanie przez spółkę środków komunikacji elektronicznej w celu przekazywania informacji, można przesłać odpisy tych dokumentów w postaci elektronicznej.
 >
-> § 1¹. Przepisu § 1 zdanie pierwsze nie stosuje się, gdy spółka nie później niż na dwa tygodnie przed dniem rozpoczęcia zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o przekształceniu, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w art. 558 i art. 559 § 4, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom na swojej stronie internetowej dostęp do tych dokumentów w postaci elektronicznej i ich druk.
+> § 1¹.⁽¹⁰²⁾ Przepisu § 1 zdanie pierwsze nie stosuje się, gdy spółka nie później niż na dwa tygodnie przed dniem rozpoczęcia zgromadzenia wspólników albo walnego zgromadzenia, na którym ma być powzięta uchwała o przekształceniu, nieprzerwanie do dnia zakończenia zgromadzenia, na którym ma być powzięta uchwała o przekształceniu, bezpłatnie udostępni do publicznej wiadomości dokumenty, o których mowa w art. 558 i art. 559 § 4, na swojej stronie internetowej bądź w tym terminie umożliwi wspólnikom na swojej stronie internetowej dostęp do tych dokumentów w postaci elektronicznej i ich druk.
 >
 > § 2. Bezpośrednio przed podjęciem uchwały o przekształceniu spółki wspólnikom należy ustnie przedstawić istotne elementy planu przekształcenia i opinii biegłego rewidenta z badania planu przekształcenia, jeżeli została ona sporządzona.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 47 lit. a ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 101) W brzmieniu ustalonym przez art. 1 pkt 47 lit. a ustawy, o której mowa w odnośniku 3.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 47 lit. b ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 102) Dodany przez art. 1 pkt 47 lit. b ustawy, o której mowa w odnośniku 3.
 
 Przepis rozwija uprawnienia informacyjne wspólników spółki przekształcanej, przyznając im prawo wglądu w dokumentację przekształceniową. Paragraf 1 przyznaje wspólnikom prawo przeglądania w lokalu spółki dokumentów, o których mowa w art. 558 (plan przekształcenia z załącznikami) oraz w art. 559 § 4 (opinia biegłego rewidenta), a także prawo żądania nieodpłatnego wydania ich odpisów; wspólnikom, którzy wyrazili zgodę na komunikację elektroniczną ze spółką, odpisy te mogą być przesyłane w postaci elektronicznej. Paragraf 1¹, wprowadzony nowelizacją wskazaną w przypisie urzędowym, przewiduje alternatywny, uproszczony sposób udostępnienia dokumentacji: obowiązek fizycznego udostępnienia dokumentów w lokalu spółki (zdanie pierwsze § 1) nie ma zastosowania, gdy spółka – nie później niż na dwa tygodnie przed rozpoczęciem zgromadzenia wspólników albo walnego zgromadzenia, na którym ma zapaść uchwała o przekształceniu, nieprzerwanie aż do zakończenia tego zgromadzenia – bezpłatnie udostępni dokumenty na swojej stronie internetowej albo umożliwi wspólnikom dostęp do nich w postaci elektronicznej wraz z możliwością ich wydruku; jest to rozwiązanie ułatwiające obrót elektroniczny i odciążające spółkę od obowiązków czysto formalnych, gdy realny dostęp do informacji jest zapewniony w inny, równie skuteczny sposób. Paragraf 2 nakłada dodatkowy obowiązek informacyjny bezpośrednio przed podjęciem uchwały: należy ustnie przedstawić wspólnikom istotne elementy planu przekształcenia oraz – jeżeli sporządzona – opinii biegłego rewidenta, co ma zapewnić, że decyzja o przekształceniu zapada ze świadomością jej podstaw także wobec wspólników, którzy nie zapoznali się wcześniej z pełną dokumentacją.
 
@@ -284,7 +284,7 @@ Przepis reguluje formalne wymogi podjęcia uchwały o przekształceniu. Paragraf
 
 > Art. 563. § 1. Uchwała o przekształceniu spółki powinna zawierać co najmniej:
 >
-> 1)formę prawną spółki, w jaką spółka zostaje przekształcona;
+> 1)⁽¹⁰³⁾formę prawną spółki, w jaką spółka zostaje przekształcona;
 >
 > 2) wysokość kapitału zakładowego, w przypadku przekształcenia w spółkę komandytowo-akcyjną, spółkę z ograniczoną odpowiedzialnością albo w spółkę akcyjną, albo wysokość kapitału akcyjnego, w przypadku przekształcenia w prostą spółkę akcyjną, albo wysokość sumy komandytowej, w przypadku przekształcenia w spółkę komandytową;
 >
@@ -292,13 +292,13 @@ Przepis reguluje formalne wymogi podjęcia uchwały o przekształceniu. Paragraf
 >
 > 4) nazwiska i imiona członków zarządu spółki przekształconej, w przypadku przekształcenia w spółkę kapitałową, albo nazwiska i imiona wspólników prowadzących sprawy spółki i mających reprezentować spółkę przekształconą, w przypadku przekształcenia w spółkę osobową;
 >
-> 5) zgodę na plan przekształcenia, a także na proponowane brzmienie umowy albo statutu spółki przekształconej.
+> 5)⁽¹⁰⁴⁾ zgodę na plan przekształcenia, a także na proponowane brzmienie umowy albo statutu spółki przekształconej.
 >
 > § 2. Podjęcie uchwały o przekształceniu zastępuje zawarcie umowy spółki przekształconej albo zawiązanie przekształconej spółki akcyjnej oraz powołanie organów spółki przekształconej.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 48 lit. a ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 103) W brzmieniu ustalonym przez art. 1 pkt 48 lit. a ustawy, o której mowa w odnośniku 3.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 48 lit. b ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 104) W brzmieniu ustalonym przez art. 1 pkt 48 lit. b ustawy, o której mowa w odnośniku 3.
 
 Przepis określa obligatoryjną treść uchwały o przekształceniu spółki. Paragraf 1 wymienia elementy, które uchwała powinna zawierać co najmniej: formę prawną spółki przekształconej (pkt 1); wysokość kapitału zakładowego – przy przekształceniu w SKA, spółkę z o.o. albo spółkę akcyjną – albo wysokość kapitału akcyjnego – przy przekształceniu w prostą spółkę akcyjną – albo wysokość sumy komandytowej – przy przekształceniu w spółkę komandytową (pkt 2, w brzmieniu uwzględniającym wprowadzenie prostej spółki akcyjnej jako odrębnej formy z kapitałem akcyjnym); zakres praw przyznanych osobiście poszczególnym wspólnikom spółki przekształconej, jeżeli takie przyznanie jest przewidziane (pkt 3); dane osobowe (nazwiska i imiona) członków zarządu spółki przekształconej – przy przekształceniu w spółkę kapitałową – albo wspólników prowadzących sprawy i reprezentujących spółkę przekształconą – przy przekształceniu w spółkę osobową (pkt 4); wreszcie zgodę na plan przekształcenia oraz na proponowane brzmienie umowy albo statutu spółki przekształconej (pkt 5). Paragraf 2 wyraża zasadę o kluczowym znaczeniu systemowym: podjęcie uchwały o przekształceniu zastępuje zawarcie umowy spółki przekształconej albo zawiązanie przekształconej spółki akcyjnej oraz powołanie jej organów – uchwała pełni więc jednocześnie funkcję aktu organizacyjnego i aktu założycielskiego nowej formy prawnej, co uzasadnia uchylenie odrębnego etapu „zawarcia umowy spółki przekształconej”, o którym była mowa w uchylonym pkt 4 art. 556.
 
@@ -428,15 +428,15 @@ Przepis reguluje dodatkowe wymogi przy przekształceniu spółki kapitałowej w 
 
 **Brzmienie przepisu:**
 
-> Art. 576¹. § 1. Wspólnik:
+> Art. 576¹. § 1.⁽¹⁰⁵⁾ Wspólnik:
 >
 > 1) który głosował przeciwko uchwale o przekształceniu spółki kapitałowej w spółkę osobową i zażądał zaprotokołowania sprzeciwu; wymóg głosowania nie dotyczy akcjonariusza akcji niemej, 2) bezzasadnie niedopuszczony do udziału w zgromadzeniu wspólników albo walnym zgromadzeniu, na którym została powzięta uchwała o przekształceniu – może żądać odkupu jego udziałów albo akcji w spółce przekształcanej.
 >
 > § 2. Wspólnicy składają spółce pisemne żądanie odkupu w terminie tygodnia od dnia podjęcia uchwały o przekształceniu.
 >
-> § 3. Akcjonariusz dołącza do żądania odkupu świadectwo rejestrowe albo imienne świadectwo depozytowe wystawione zgodnie z ustawą z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. Termin ważności świadectwa nie może upływać przed dniem dokonania odkupu.
+> § 3.⁽¹⁰⁶⁾ Akcjonariusz dołącza do żądania odkupu świadectwo rejestrowe albo imienne świadectwo depozytowe wystawione zgodnie z ustawą z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. Termin ważności świadectwa nie może upływać przed dniem dokonania odkupu.
 >
-> § 4. Cena odkupu odpowiada wartości godziwej udziałów albo akcji w spółce przekształcanej.
+> § 4.⁽¹⁰⁶⁾ Cena odkupu odpowiada wartości godziwej udziałów albo akcji w spółce przekształcanej.
 >
 > § 5. W terminie trzech tygodni od dnia podjęcia uchwały o przekształceniu spółka przekształcana dokonuje odkupu udziałów albo akcji na rachunek własny lub rachunek wspólników pozostających w spółce. Skuteczność odkupu zależy od zapłaty ceny odkupu wspólnikom żądającym odkupu lub złożenia kwoty równej tej cenie do depozytu sądowego.
 >
@@ -446,11 +446,9 @@ Przepis reguluje dodatkowe wymogi przy przekształceniu spółki kapitałowej w 
 >
 > § 8. Jeżeli wszystkie udziały albo akcje wspólników, żądających odkupu, nie zostaną odkupione, przekształcenie nie dochodzi do skutku.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 49 lit. a ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 105) W brzmieniu ustalonym przez art. 1 pkt 49 lit. a ustawy, o której mowa w odnośniku 3.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 49 lit. b ustawy, o której mowa w odnośniku 3.
-
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 49 lit. b ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 106) W brzmieniu ustalonym przez art. 1 pkt 49 lit. b ustawy, o której mowa w odnośniku 3.
 
 Przepis, będący jednym z centralnych elementów ochrony wspólników mniejszościowych przy przekształceniu spółki kapitałowej w spółkę osobową, przyznaje określonej kategorii wspólników prawo żądania odkupu ich udziałów albo akcji zamiast wymuszonego uczestnictwa w spółce osobowej. Paragraf 1 określa krąg uprawnionych: wspólnik, który głosował przeciwko uchwale o przekształceniu i zażądał zaprotokołowania sprzeciwu (przy czym wymóg głosowania nie dotyczy akcjonariusza uprawnionego z akcji niemej, który z natury rzeczy nie ma prawa głosu), a także wspólnik bezzasadnie niedopuszczony do udziału w zgromadzeniu, na którym uchwałę powzięto. Paragraf 2 wyznacza tygodniowy termin na złożenie spółce pisemnego żądania odkupu, liczony od dnia podjęcia uchwały. Paragraf 3 nakłada na akcjonariusza obowiązek dołączenia do żądania świadectwa rejestrowego albo imiennego świadectwa depozytowego wystawionego zgodnie z ustawą o obrocie instrumentami finansowymi, którego termin ważności nie może upływać przed dniem dokonania odkupu – co ma zabezpieczyć spółkę przed podwójnym rozporządzeniem tymi samymi akcjami przez akcjonariusza. Paragraf 4 definiuje cenę odkupu jako odpowiadającą wartości godziwej udziałów albo akcji, a więc wartości rynkowej, a nie księgowej czy nominalnej. Paragraf 5 wyznacza trzytygodniowy termin dokonania odkupu przez spółkę (na rachunek własny lub rachunek wspólników pozostających w spółce), uzależniając skuteczność odkupu od zapłaty ceny lub złożenia jej do depozytu sądowego. Paragraf 6 ogranicza zdolność spółki do nabywania własnych udziałów lub akcji na rachunek własny w ramach tej procedury do 10% kapitału zakładowego (odpowiednio – 10% ogólnej liczby akcji w prostej spółce akcyjnej), co ma zapobiec nadmiernemu uszczupleniu majątku spółki przekształcanej kosztem jej wierzycieli i pozostałych wspólników. Paragraf 7 przyznaje wspólnikowi niezgadzającemu się z zaoferowaną ceną odkupu prawo wniesienia powództwa o ustalenie wartości godziwej w terminie dwóch tygodni od podjęcia uchwały – powództwo to nie wstrzymuje ani samego odkupu, ani rejestracji przekształcenia, co zapewnia, że spór o wysokość wynagrodzenia nie blokuje realizacji decyzji większości. Paragraf 8 wprowadza warunek zawieszający dla całego przekształcenia: jeżeli nie wszystkie udziały albo akcje żądających odkupu zostaną odkupione, przekształcenie nie dochodzi do skutku – co koresponduje z obowiązkiem złożenia stosownego oświadczenia zarządu przewidzianym w art. 569 § 2 i stanowi silny mechanizm ochronny wspólników mniejszościowych, praktycznie uzależniający skuteczność przekształcenia od zdolności finansowej spółki do zaspokojenia wszystkich zgłoszonych żądań odkupu.
 

@@ -248,7 +248,7 @@ Przepis reguluje podstawowe zasady funkcjonowania walnego zgromadzenia jako orga
 >
 > 6) emisji obligacji;
 >
-> 7) połączenia, podziału i przekształcenia spółki;
+> 7)⁽⁶⁾ połączenia, podziału i przekształcenia spółki;
 >
 > 8) zmiany statutu;
 >
@@ -264,7 +264,7 @@ Przepis reguluje podstawowe zasady funkcjonowania walnego zgromadzenia jako orga
 >
 > 3) innych czynności przewidzianych w statucie.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 3.
+*Odnośnik w tekście jednolitym* 6) W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 3.
 
 Przepis określa katalog spraw wymagających uchwały walnego zgromadzenia oraz różnicuje wymagany poziom zgody komplementariuszy w zależności od wagi poszczególnych kategorii spraw. Paragraf 1 wymienia typowe kompetencje walnego zgromadzenia znane ze spółek kapitałowych: zatwierdzanie sprawozdania z działalności i sprawozdania finansowego, udzielanie absolutorium komplementariuszom prowadzącym sprawy spółki oraz członkom rady nadzorczej, wybór biegłego rewidenta (chyba że statut powierza tę kompetencję radzie nadzorczej) oraz decyzję o rozwiązaniu spółki. Paragraf 2 wprowadza rygor nieważności dla uchwał walnego zgromadzenia w sprawach szczególnie doniosłych dla pozycji komplementariuszy, wymagając zgody wszystkich komplementariuszy – dotyczy to m.in. powierzenia prowadzenia spraw i reprezentacji spółki, podziału zysku przypadającego akcjonariuszom, zbycia lub wydzierżawienia przedsiębiorstwa, zbycia nieruchomości spółki, zmiany wysokości kapitału zakładowego, emisji obligacji, łączenia, podziału i przekształcenia spółki, zmiany statutu oraz rozwiązania spółki. Katalog ten obejmuje zatem sprawy strukturalne i majątkowe o kluczowym znaczeniu dla spółki, w których interesy komplementariuszy – ponoszących nieograniczoną odpowiedzialność – muszą zostać w pełni uwzględnione. Paragraf 3 przewiduje łagodniejszy wymóg zgody większości komplementariuszy (również pod rygorem nieważności) dla spraw bezpośrednio dotyczących ich własnej partycypacji w wynikach finansowych, takich jak podział zysku przypadającego komplementariuszom czy sposób pokrycia straty. Zamieszczony w źródle przypis urzędowy wskazuje, że treść § 3 została ustalona nowelizacją wskazaną w odnośniku 3, co oznacza, iż obecne brzmienie tego paragrafu jest wynikiem zmiany dokonanej po pierwotnym uchwaleniu Kodeksu.
 
@@ -430,7 +430,7 @@ Przepis wprowadza alternatywny, uproszczony tryb zawarcia umowy spółki z ogran
 
 > Art. 158. § 1. Jeżeli wkładem do spółki w celu pokrycia udziału ma być w całości albo w części wkład niepieniężny (aport), umowa spółki powinna szczegółowo określać przedmiot tego wkładu oraz osobę wspólnika wnoszącego aport, jak również liczbę i wartość nominalną objętych w zamian udziałów.
 >
-> § 1¹. W przypadku spółki, której umowę zawarto przy wykorzystaniu wzorca umowy, na pokrycie kapitału zakładowego wnosi się wyłącznie wkłady pieniężne. Pokrycie kapitału zakładowego powinno nastąpić nie później niż w terminie siedmiu dni od dnia jej wpisu do rejestru. Przepis art. 161¹ stosuje się odpowiednio.
+> § 1¹.⁽⁷⁾ W przypadku spółki, której umowę zawarto przy wykorzystaniu wzorca umowy, na pokrycie kapitału zakładowego wnosi się wyłącznie wkłady pieniężne. Pokrycie kapitału zakładowego powinno nastąpić nie później niż w terminie siedmiu dni od dnia jej wpisu do rejestru. Przepis art. 161¹ stosuje się odpowiednio.
 >
 > § 1². Podwyższenie kapitału zakładowego dokonywane po wpisie do rejestru spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy, może być pokryte wyłącznie wkładami pieniężnymi, jeżeli zmiany umowy spółki dokonano przy wykorzystaniu wzorca uchwały zmieniającej umowę spółki z ograniczoną odpowiedzialnością, a w przypadku gdy zmiany umowy spółki dokonano w formie aktu notarialnego – także wkładami niepieniężnymi.
 >
@@ -438,7 +438,7 @@ Przepis wprowadza alternatywny, uproszczony tryb zawarcia umowy spółki z ogran
 >
 > § 3. Przedmiot wkładu pozostaje do wyłącznej dyspozycji zarządu spółki.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 3 pkt 1 ustawy z dnia 4 listopada 2022 r. o zmianie ustawy o Krajowym Rejestrze Sądowym, ustawy – Kodeks postępowania cywilnego oraz ustawy – Kodeks spółek handlowych (Dz. U. poz. 2436), która weszła w życie z dniem 15 grudnia 2022 r.
+*Odnośnik w tekście jednolitym* 7) W brzmieniu ustalonym przez art. 3 pkt 1 ustawy z dnia 4 listopada 2022 r. o zmianie ustawy o Krajowym Rejestrze Sądowym, ustawy – Kodeks postępowania cywilnego oraz ustawy – Kodeks spółek handlowych (Dz. U. poz. 2436), która weszła w życie z dniem 15 grudnia 2022 r.
 
 Przepis reguluje zasady wnoszenia do spółki wkładów niepieniężnych (aportów) oraz ograniczenia dotyczące dysponowania wpłatami na kapitał zakładowy. Paragraf 1 nakłada obowiązek szczegółowego określenia w umowie spółki przedmiotu wkładu niepieniężnego, osoby wspólnika wnoszącego aport oraz liczby i wartości nominalnej udziałów obejmowanych w zamian – wymóg ten służy przejrzystości i weryfikowalności struktury kapitału zakładowego, zwłaszcza w kontekście odpowiedzialności za zawyżenie wartości aportu uregulowanej w art. 175. Paragraf 1¹ wprowadza istotne ograniczenie dla spółek zawiązanych w trybie wzorca umowy (S24): na pokrycie kapitału zakładowego takich spółek można wnosić wyłącznie wkłady pieniężne, które muszą zostać wniesione nie później niż w terminie siedmiu dni od dnia wpisu spółki do rejestru, z odpowiednim zastosowaniem art. 161¹ dotyczącego rozliczeń za pomocą transakcji płatniczych przez internet. Paragraf 1² rozszerza to ograniczenie na podwyższenie kapitału zakładowego dokonywane po wpisie spółki zawiązanej w trybie S24, dopuszczając wkłady niepieniężne dopiero wówczas, gdy zmiana umowy spółki nastąpiła w formie aktu notarialnego, a nie przy wykorzystaniu wzorca uchwały. Paragraf 2 zakazuje wypłacania wynagrodzenia za usługi świadczone przy powstaniu spółki ze środków wpłaconych na pokrycie kapitału zakładowego oraz zaliczania takiego wynagrodzenia na poczet wkładu wspólnika – norma ta chroni realność i integralność kapitału zakładowego. Paragraf 3 zastrzega, że przedmiot wkładu pozostaje do wyłącznej dyspozycji zarządu spółki, co wyklucza ingerencję wspólników w zarządzanie majątkiem wniesionym tytułem wkładu po jego wniesieniu. Zamieszczony przypis urzędowy wskazuje, że obecne brzmienie przepisu zostało ustalone nowelizacją z 4 listopada 2022 r. dotyczącą Krajowego Rejestru Sądowego, Kodeksu postępowania cywilnego oraz Kodeksu spółek handlowych, która weszła w życie 15 grudnia 2022 r.
 
@@ -478,9 +478,9 @@ Przepis reguluje instytucję spółki z ograniczoną odpowiedzialnością w orga
 
 **Brzmienie przepisu:**
 
-> Art. 161¹. Spółka w organizacji umożliwia rozliczenie z tytułu wpłaty na poczet udziałów przez wykonanie transakcji płatniczej z wykorzystaniem połączenia z siecią Internet na rachunek płatniczy prowadzony przez bank, świadczący usługi na terytorium Unii Europejskiej lub państwa – strony umowy o Europejskim Obszarze Gospodarczym, oraz przedstawienie dowodu takiej transakcji z wykorzystaniem połączenia z siecią Internet.
+> Art. 161¹.⁽⁸⁾ Spółka w organizacji umożliwia rozliczenie z tytułu wpłaty na poczet udziałów przez wykonanie transakcji płatniczej z wykorzystaniem połączenia z siecią Internet na rachunek płatniczy prowadzony przez bank, świadczący usługi na terytorium Unii Europejskiej lub państwa – strony umowy o Europejskim Obszarze Gospodarczym, oraz przedstawienie dowodu takiej transakcji z wykorzystaniem połączenia z siecią Internet.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 7.
+*Odnośnik w tekście jednolitym* 8) Dodany przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 7.
 
 Przepis dodany do Kodeksu w drodze nowelizacji reguluje sposób rozliczenia wpłat na poczet udziałów dokonywanych przez spółkę w organizacji za pomocą transakcji płatniczych realizowanych przez internet. Zgodnie z jego treścią spółka w organizacji umożliwia rozliczenie z tytułu wpłaty na poczet udziałów przez wykonanie transakcji płatniczej z wykorzystaniem połączenia z siecią Internet na rachunek płatniczy prowadzony przez bank świadczący usługi na terytorium Unii Europejskiej lub państwa – strony umowy o Europejskim Obszarze Gospodarczym, wraz z obowiązkiem przedstawienia dowodu takiej transakcji dokonanej za pośrednictwem internetu. Przepis ten ma szczególne znaczenie w kontekście spółek zawiązywanych w trybie wzorca umowy (S24), do których na mocy art. 158 § 1¹ znajduje on odpowiednie zastosowanie w związku z wymogiem wnoszenia w takich spółkach wyłącznie wkładów pieniężnych w krótkim, siedmiodniowym terminie od wpisu do rejestru – rozwiązanie to ułatwia szybkie i zdalne rozliczenie kapitału zakładowego spółek zakładanych elektronicznie. Zamieszczony w źródle przypis urzędowy wskazuje, że przepis został dodany nowelizacją wskazaną w odnośniku 7.
 
@@ -770,11 +770,11 @@ Przepis reguluje możliwość ograniczenia zbywalności udziałów przez umowę 
 
 **Brzmienie przepisu:**
 
-> Art. 182¹. § 1. Oferta nabycia udziałów w spółce nie może być składana nieoznaczonemu adresatowi.
+> Art. 182¹.⁽⁹⁾ § 1. Oferta nabycia udziałów w spółce nie może być składana nieoznaczonemu adresatowi.
 >
 > § 2. Nabycie udziałów w spółce nie może być promowane przez kierowanie reklamy lub innej formy promocji do nieoznaczonego adresata.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 48 pkt 1 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. poz. 1488); wszedł w życie z dniem 10 listopada 2023 r.
+*Odnośnik w tekście jednolitym* 9) Dodany przez art. 48 pkt 1 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. poz. 1488); wszedł w życie z dniem 10 listopada 2023 r.
 
 Przepis wprowadza zakaz kierowania oferty nabycia udziałów w spółce z ograniczoną odpowiedzialnością do nieoznaczonego adresata oraz zakaz promowania takiej oferty w formie reklamy skierowanej do nieoznaczonego kręgu odbiorców. Paragraf 1 dotyczy samej oferty, paragraf 2 rozszerza zakaz na wszelkie formy promocji nabycia udziałów kierowane do nieoznaczonego adresata. Przepis ten ma na celu odróżnienie udziałów w spółce z ograniczoną odpowiedzialnością – instrumentu z natury niepublicznego, wymagającego zachowania kontroli nad kręgiem wspólników i osobistego charakteru relacji korporacyjnych – od akcji spółki akcyjnej czy prostej spółki akcyjnej, które mogą być przedmiotem oferty publicznej. Przepis stanowi element szerszej regulacji dotyczącej finansowania społecznościowego (crowdfundingu), co potwierdza zamieszczony w źródle przypis urzędowy wskazujący, że przepis został dodany ustawą z 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom, która weszła w życie 10 listopada 2023 r. – celem regulacji jest zapobieżenie obchodzeniu ograniczeń właściwych ofertom publicznym papierów wartościowych poprzez wykorzystywanie do tego celu udziałów w spółkach z ograniczoną odpowiedzialnością.
 
